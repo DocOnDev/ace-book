@@ -1,2 +1,4 @@
-chapter1.txt
-chapter2.txt
+autonomy.txt
+connection.txt
+excellence.txt
+diversity.txt
