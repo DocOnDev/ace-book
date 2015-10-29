@@ -1,19 +1,34 @@
 # Work Types
 
-Juliani - jerk of a leader.
+Rudi Juliani - jerk of a leader.
 Sucked prior to 9/11.
 Hero leader during 9/11.
 Sucked afterwards.
 Remarkable at command and control.
 Appropriate only in the chaotic context.
 
+https://hbr.org/2007/11/a-leaders-framework-for-decision-making
+
 
 ## Simple
-A simple context is stable with clear cause and effect relationships that are easily discerned by most everyone.
-There is a best way to perform the task; a best practice. Often this best practice is self-evident.
+- Stability
+- Clear cause and effect
+- Sense, categorize, respond.
+- Best Practices.
 
+A simple context is stable with clear cause and effect relationships that are easily discerned by most everyone.
+There is a best way to perform the task; a best practice.
+Often this best practice is self-evident.
+In cases where the optimal solution is not self-evident, minimal expertise is required.
+
+Problems in domain:
+- Improper classifications of issues
+- Entrained thinking
+- Complacency
 
 ## Compound
+There is still a clear relationship between cause and effect, but the context is interconnected enough that there are multiple equally good ways to preform the task.
+There are good practices, but not necessarily best practices.
 
 ## Emergent
 
