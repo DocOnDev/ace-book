@@ -3,3 +3,4 @@ autonomy.txt
 connection.txt
 excellence.txt
 diversity.txt
+references.txt
