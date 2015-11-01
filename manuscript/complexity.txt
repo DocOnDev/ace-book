@@ -21,13 +21,63 @@ There is a best way to perform the task; a best practice.
 Often this best practice is self-evident.
 In cases where the optimal solution is not self-evident, minimal expertise is required.
 
+
+Early on in my career, I landed a job working in a mail room for a major law firm.
+Nothing glamorous, to be sure.
+But for a college drop-out of 20-something with a new wife and a baby,
+steady pay and covering our bills were high on my list of priorities.
+Glamour, on the other hand, was pretty close to the bottom of that list.
+
+Working in the mail room was a physically taxing job
+and to be successful, you needed to not only be able to keep up the pace,
+but be able to keep track of multiple requests and get them done.
+We did mail runs three times per day; one at 8:30am, one at 1:30pm, and one at 5:00pm.
+Each run consisted of 4 routes.
+Most times, four employees went out, each taking a single route. Now and then, you'd have to take two routes.
+For each route, there were approximately 75 stops where you checked for outgoing mail and dropped off any incoming mail.
+The majority of the stops were simply baskets atop a secretary's workstation.
+On average, a secretary worked with three attorneys.
+This meant that on a single route, you were handling mail for as many as 300 people.
+When you got back to the mailroom, you needed to sort your cart by intra-office, inter-office, and outbound mail.
+
+While on a run, you were guaranteed to get additional requests.
+"Hey Michael, can you do me a favor, hmmm?
+Mr. Thompson needs new batteries in his dictaphone.
+Can you be a doll and send some back to me in the mail next run? Thanks so much."
+"You there, office boy, um.. Oh, whatever your name is.
+The corner conference room is a mess.
+Get someone to clean it up before 2pm. I have an important meeting. Goddamn slobs..."
+
+And I can assure you from personal experience,
+Mr. too important to remember your name will recall it perfectly if that office is not cleaned up by 2pm.
+
+Now when we weren't doing runs and taking care of random errands,
+we were receiving packages from several over the road carriers as well as local couriers.
+Packages would come in, either direct to the mailroom or through the docks.
+We'd burst, sort, categorize, slot, weigh and stamp all in preparation for the next run.
+
+Whenever the remote office bags got full, we'd transfer the contents of the bag
+into a large box and label it for overnight delivery to the appropriate office.
+At the end of the day, no matter how much content was in each office's bag, it
+got packaged, labeled, and shipped.
+
+
+
+
+
 Problems in domain:
 - Improper classifications of issues
 - Entrained thinking
 - Complacency
 
+
 ## Compound
-There is still a clear relationship between cause and effect, but the context is interconnected enough that there are multiple equally good ways to preform the task.
+- Cause and effect still determinable
+- Multiple paths to solution
+- Good practices.
+
+There is still a clear relationship between cause and effect, but the context is interconnected enough
+that there are multiple equally good ways to preform the task.
 There are good practices, but not necessarily best practices.
 
 ## Emergent
