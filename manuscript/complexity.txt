@@ -1,27 +1,9 @@
 # Work Types
 
-Rudi Juliani - jerk of a leader.
-Sucked prior to 9/11.
-Hero leader during 9/11.
-Sucked afterwards.
-Remarkable at command and control.
-Appropriate only in the chaotic context.
-
 https://hbr.org/2007/11/a-leaders-framework-for-decision-making
 
 
 ## Simple
-- Stability
-- Clear cause and effect
-- Sense, categorize, respond.
-- Best Practices.
-
-A simple context is stable with clear cause and effect relationships that are easily discerned by most everyone.
-There is a best way to perform the task; a best practice.
-Often this best practice is self-evident.
-In cases where the optimal solution is not self-evident, minimal expertise is required.
-
-
 Early on in my career, I landed a job working in a mail room for a major law firm.
 Nothing glamorous, to be sure.
 But for a college drop-out of 20-something with a new wife and a baby,
@@ -31,25 +13,29 @@ Glamour, on the other hand, was pretty close to the bottom of that list.
 Working in the mail room was a physically taxing job
 and to be successful, you needed to not only be able to keep up the pace,
 but be able to keep track of multiple requests and get them done.
+
 We did mail runs three times per day; one at 8:30am, one at 1:30pm, and one at 5:00pm.
 Each run consisted of 4 routes.
 Most times, four employees went out, each taking a single route. Now and then, you'd have to take two routes.
 For each route, there were approximately 75 stops where you checked for outgoing mail and dropped off any incoming mail.
-The majority of the stops were simply baskets atop a secretary's workstation.
+The majority of the stops were baskets or trays atop a secretary's workstation.
 On average, a secretary worked with three attorneys.
 This meant that on a single route, you were handling mail for as many as 300 people.
+If you caught a double, you were handling mail for 600.
 When you got back to the mailroom, you needed to sort your cart by intra-office, inter-office, and outbound mail.
 
 While on a run, you were guaranteed to get additional requests.
-"Hey Michael, can you do me a favor, hmmm?
+
+> "Hey Michael, can you do me a favor, hmmm?
 Mr. Thompson needs new batteries in his dictaphone.
 Can you be a doll and send some back to me in the mail next run? Thanks so much."
-"You there, office boy, um.. Oh, whatever your name is.
+
+> "You there, office boy, um.. Oh, whatever your name is.
 The corner conference room is a mess.
 Get someone to clean it up before 2pm. I have an important meeting. Goddamn slobs..."
 
 And I can assure you from personal experience,
-Mr. too important to remember your name will recall it perfectly if that office is not cleaned up by 2pm.
+Mr. Too-important-to-remember-your-name will recall it perfectly if that office is not cleaned up by 2pm.
 
 Now when we weren't doing runs and taking care of random errands,
 we were receiving packages from several over the road carriers as well as local couriers.
@@ -61,9 +47,57 @@ into a large box and label it for overnight delivery to the appropriate office.
 At the end of the day, no matter how much content was in each office's bag, it
 got packaged, labeled, and shipped.
 
+Our Manager was a man name Greg. Greg had worked the mailroom for years
+and he'd worked another in a firm across town for several years prior to that.
+We had two PCs in the mailroom; the first two PCs in the firm.
+One for creating FedEx labels. The other for UPS.
+It was the late 80s and aside from those two devices,
+not much about mailrooms had changed in the prior 20 years.
+Greg knew it inside and out. He knew all the courier companies in town.
+He knew most of their owners.
+If we had a problem with a courier package,
+he didn't bother with the standard channels,
+he called the owner's desk phone direct.
+He knew every FedEx and UPS delivery person.
+He knew the crews working the docks.
+He knew all the freight elevator operators.
+He knew the building maintenance and management crews.
+He even knew the people who supplied and repaired dictation equipment.
+He knew just about everything there was to know about every possible aspect of running that mailroom.
+I say "just about" only to leave room for an extremely remote possibility,
+but the truth is, as far as I could tell, Greg knew it all and then some.
+
+We had straight forward procedures for most everything.
+There was a way we ran the routes and a way we sorted the mail.
+There was paperwork and procedure for FedEx and UPS.
+A process for courier requests and policies covering the handling of legal briefs and discovery documents.
+There was a documented procedure for how the Pitney Bowes collator was used.
+
+If you didn't know how to do something, you asked your co-workers. If they didn't know, Greg did.
+
+For how taxing it was and the number of processes and procedures involved, it was still simple work.
+
+### Sense, Categorize, Respond
 
 
 
+
+
+
+
+
+
+### Summary
+
+- Stability
+- Clear cause and effect
+- Sense, categorize, respond.
+- Best Practices.
+
+A simple context is stable with clear cause and effect relationships that are easily discerned by most everyone.
+There is a best way to perform the task; a best practice.
+Often this best practice is self-evident.
+In cases where the optimal solution is not self-evident, minimal expertise is required.
 
 Problems in domain:
 - Improper classifications of issues
