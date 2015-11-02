@@ -47,7 +47,7 @@ into a large box and label it for overnight delivery to the appropriate office.
 At the end of the day, no matter how much content was in each office's bag, it
 got packaged, labeled, and shipped.
 
-Our Manager was a man name Greg. Greg had worked the mailroom for years
+Our Manager was a man named Greg. Greg had worked the mailroom for years
 and he'd worked another in a firm across town for several years prior to that.
 We had two PCs in the mailroom; the first two PCs in the firm.
 One for creating FedEx labels. The other for UPS.
@@ -70,21 +70,57 @@ but the truth is, as far as I could tell, Greg knew it all and then some.
 We had straight forward procedures for most everything.
 There was a way we ran the routes and a way we sorted the mail.
 There was paperwork and procedure for FedEx and UPS.
-A process for courier requests and policies covering the handling of legal briefs and discovery documents.
+We had a process for courier requests and policies covering the handling of legal briefs and discovery documents.
 There was a documented procedure for how the Pitney Bowes collator was used.
 
-If you didn't know how to do something, you asked your co-workers. If they didn't know, Greg did.
+Notes and instructions were all about.
+There were labels on every compartment in the sorting wall.
+Procedures were posted above the large equipment
+and laminated instructions were next to the PCs.
+
+If you didn't know how to do something, you asked your co-workers. If they didn't know, Greg knew.
+
+If you had an idea about how to improve the process, you spoke with Greg.
+He'd listen patiently, often with a look mild amusement; a kindly appreciation for your naive contribution.
+He'd tell you he'd think about it. He always said he'd think about it.
+Greg rarely said "no" at the presentation of an idea, no matter how many times he'd heard it before.
+Later that day or early the next,
+Greg would tell you a story about a time someone did something similar to your suggestion
+and an attorney was angered by the resultant inconvenience,
+a paralegal had to deliver a package themselves,
+or a filing failed to make it to the court by the deadline.
+The procedures existed to avoid error and to ensure the mailroom ran efficiently.
+These were the best practices available and they'd been proven over time.
 
 For how taxing it was and the number of processes and procedures involved, it was still simple work.
 
 ### Sense, Categorize, Respond
 
+Simple work is not necessarily easy.
+We kept busy.
+We operated efficiently.
+I ended most days physically exhausted.
+You needed a good memory (or a trusty notepad) and you needed to be able to read and write and pattern match.
+But that was truly the extent of it.
+There was no extensive training or even orientation for the role.
+Most of our work was reading (or listening), determining what category this work fit into, and acting out a series of steps.
+Intraoffice mail in placed it in the sorting bin with the matching name.
+Interoffice mail is placed in the correct outbound office bag.
+Cross-town same-day deliveries require a courier slip and are placed in the outbound courier bin.
+US Mail gets a postage label generated via the Pitney Bowes machine and is placed in the mail bin.
+There were dozens of procedures and policies in place to cleanly, clearly, and efficiently guide us in the execution of our work.
 
-
-
-
-
-
+This is the nature of simple work.
+From the mailroom to the filing room to the stock yards and manufacturing floors
+of the 1900s when top-down hierarchical management first proved far superior
+to the less structured work environments of the day.
+Simple work can be entirely understood.
+A single person can know the entire domain.
+Workers need not solve new or unique problems.
+They need not understand how the overall system works.
+They only need to be able to sense, categorize, and respond according to procedure.
+Creativity is not necessary and often unwelcome.
+In fact, deviance from standard can create an unstable system resulting in loss of efficiency and resource.
 
 
 ### Summary
