@@ -1,5 +1,9 @@
 # Work Types
 
+Need a basic description of work types here.
+
+Perhaps a reference to Cynefin.
+
 https://hbr.org/2007/11/a-leaders-framework-for-decision-making
 
 
@@ -92,53 +96,120 @@ or a filing failed to make it to the court by the deadline.
 The procedures existed to avoid error and to ensure the mailroom ran efficiently.
 These were the best practices available and they'd been proven over time.
 
-For how taxing it was and the number of processes and procedures involved, it was still simple work.
-
-### Sense, Categorize, Respond
-
-Simple work is not necessarily easy.
-We kept busy.
-We operated efficiently.
-I ended most days physically exhausted.
-You needed a good memory (or a trusty notepad) and you needed to be able to read and write and pattern match.
+Simple work is not necessarily easy work.
+We kept busy,
+we operated efficiently,
+and we ended many days physically exhausted.
+To accomplish the work, you needed a strong back and a good memory (or a trusty notepad).
+In addition to these, you needed to be able to read and write and pattern match.
 But that was truly the extent of it.
 There was no extensive training or even orientation for the role.
-Most of our work was reading (or listening), determining what category this work fit into, and acting out a series of steps.
-Intraoffice mail in placed it in the sorting bin with the matching name.
+Most of our work was reading (or listening),
+determining what category this work fit into, and acting out a series of steps.
+Intraoffice mail is placed in the sorting bin with the matching name.
 Interoffice mail is placed in the correct outbound office bag.
 Cross-town same-day deliveries require a courier slip and are placed in the outbound courier bin.
 US Mail gets a postage label generated via the Pitney Bowes machine and is placed in the mail bin.
-There were dozens of procedures and policies in place to cleanly, clearly, and efficiently guide us in the execution of our work.
+There were dozens of procedures and policies in place to cleanly, clearly,
+and efficiently guide us in the execution of our work.
 
 This is the nature of simple work.
 From the mailroom to the filing room to the stock yards and manufacturing floors
 of the 1900s when top-down hierarchical management first proved far superior
 to the less structured work environments of the day.
-Simple work can be entirely understood.
-A single person can know the entire domain.
-Workers need not solve new or unique problems.
-They need not understand how the overall system works.
+Simple work can be entirely understood and
+a single person can and often does know the entire domain.
+Workers need not solve new or unique problems
+or even understand how the overall system works.
 They only need to be able to sense, categorize, and respond according to procedure.
-Creativity is not necessary and often unwelcome.
-In fact, deviance from standard can create an unstable system resulting in loss of efficiency and resource.
+Creativity is not necessary and is often unwelcome.
+In fact, deviance from standard can create an unstable system
+resulting in loss of efficiency and resource.
+
+While typically quite effective, the hierarchical approach to simple work
+is not entirely risk free. To begin with, management cannot be at all places at
+all times. It is possible a worker or group of workers will fail to properly categorize
+the work before them and will execute a process that hinders the system. Say, for example,
+the mailroom staff was not aware that an attorney was visiting the Chicago office from
+the D.C. office to work on a key case. We'd route correspondence to D.C. per procedure,
+ensuring at least a 24 hour delay in delivery as the D.C. mailroom would then need
+to forward the item on to Chicago. Not properly marked, Chicago might categorize
+this as a mis-routed item and dutifully and efficiently send it back to D.C.
+
+While these may be minor inconveniences that have little impact, a 24 hour delay
+in a time sensitive case may result in a missed filing or a violation of discovery
+rules or any other number of detrimental outcomes. Cases have been lost, millions
+of dollars have been paid out, and people's lives have been ruined simply because
+a key piece of information didn't get to counsel on time or a procedural requirement
+was missed with the courts.
+
+In a simple context, there is the additional risk of entrenched thinking and complacency.
+Best practices become sacrosanct. They are proven. The are best. As such,
+they cannot be bettered. Once one has mastered a simple domain and put a working
+system in place, they may not realize the need to continue to monitor and adjust over time.
+
+With the introduction of alternate delivery services,
+desktop computers, email, and eventually intranets, the mailroom was slow to
+adopt any of the advances. For years, supplies were requested via a simple procedure.
+An employee would complete a supply requisition form and drop it in their outbound mail box.
+This form was a pressure form that made two additional copies, allowing the original and one copy
+to route to the mailroom and providing the requestor a copy for their own records.
+The mailroom would pull the supplies, checking off each item as they went. They
+would then separate the second copy from the original and send it back in the supply package
+as a record of having satisfied the request. This original, once completed, was filed
+for 12 months and then disposed of.
+
+Once email became ubiquitous, people wanted to be able to shoot off an email rather than
+filling out a form. The mailroom agreed and set up a computer to help process these requests.
+An operator, who sat at a desk in the file room, processed each email request,
+transposing it onto the standard form. The original with attached first copy was
+routed to the mailroom for completion. The second copy was routed to the requestor.
+On the next run, both items were collected and taken to the mailroom for processing.
+The requestor's copy would be placed in their outbound bin. The supplies would then be picked
+and packaged and placed in the requestor's outbound bin. The original would get filed.
+On the next run, the requestor would receive their supplies and two paper copies of their
+email request, one with checkmarks and one without. They would, of course, throw away
+both copies.
+
+There was clearly a better way to do this work, but forms in triplicate had so
+long stood as the best practice, they persisted without question as the changing
+environment transformed them from providing value to complete waste.
+
+This example shows the folly and even humor of entrenched thinking and complacency.
+Forms in duplicate that need not exist are a minor issue within a large
+organization.
+
+
+
 
 
 ### Summary
 
-- Stability
-- Clear cause and effect
-- Sense, categorize, respond.
-- Best Practices.
-
 A simple context is stable with clear cause and effect relationships that are easily discerned by most everyone.
-There is a best way to perform the task; a best practice.
-Often this best practice is self-evident.
-In cases where the optimal solution is not self-evident, minimal expertise is required.
+There is a best way to perform each task; a best practice, which is either self-evident
+or easily conveyed with minimal training.
 
-Problems in domain:
-- Improper classifications of issues
-- Entrained thinking
-- Complacency
+Management is top-down and this hierarchy helps to ensure that each individual is
+being fully, optimally utilized in a system as predictable and efficient as possible.
+Workers spend their time sensing, categorizing, and responding by executing the
+pre-determined procedures. Creativity and problem solving are rare activities
+in this context and are primarily the responsibility of management.
+
+The key risks here are mis-categorization and entrenched thinking. Mis-categorization
+results in execution of the wrong procedure. For the mailroom at a major law firm, as an example,
+the impact can range from a minor inconvenience, such as non-critical materials being delivered late,
+to loss of a case or a key client, possibly even heavy fines and jail time. Entrenched thinking
+results in lost opportunity. For any company that operates in a simple context, this
+can mean a less than optimally efficient operation and loss of profit due to waste.
+It can also mean losing market share to companies more responsive and nimble in the
+face of change. Sufficiently entrenched companies can be run out of business whilst
+they struggle against their own inertia.
+
+Much of what we know today as management was formulated in this context.
+Frederick Winslow Taylor, the creator of Scientific Management and one of the most
+influential businessmen of the 19th and 20th centuries, formulated most of
+his theories and practices on factory floors and in work yards where the work was
+physically taxing, but cognitively simple.
 
 
 ## Compound
