@@ -153,7 +153,7 @@ With the introduction of alternate delivery services,
 desktop computers, email, and eventually intranets, the mailroom was slow to
 adopt any of the advances. For years, supplies were requested via a simple procedure.
 An employee would complete a supply requisition form and drop it in their outbound mail box.
-This form was a pressure form that made two additional copies, allowing the original and one copy
+This was a pressure form that made two additional copies, allowing the original and one copy
 to route to the mailroom and providing the requestor a copy for their own records.
 The mailroom would pull the supplies, checking off each item as they went. They
 would then separate the second copy from the original and send it back in the supply package
@@ -161,14 +161,14 @@ as a record of having satisfied the request. This original, once completed, was 
 for 12 months and then disposed of.
 
 Once email became ubiquitous, people wanted to be able to shoot off an email rather than
-filling out a form. The mailroom agreed and set up a computer to help process these requests.
+filling out a paper form. The mailroom agreed and set up a computer to help process these requests.
 An operator, who sat at a desk in the file room, processed each email request,
 transposing it onto the standard form. The original with attached first copy was
 routed to the mailroom for completion. The second copy was routed to the requestor.
 On the next run, both items were collected and taken to the mailroom for processing.
 The requestor's copy would be placed in their outbound bin. The supplies would then be picked
 and packaged and placed in the requestor's outbound bin. The original would get filed.
-On the next run, the requestor would receive their supplies and two paper copies of their
+On the next run, the requestor would receive their supplies and two transposed paper copies of their
 email request, one with checkmarks and one without. They would, of course, throw away
 both copies.
 
@@ -179,10 +179,6 @@ environment transformed them from providing value to complete waste.
 This example shows the folly and even humor of entrenched thinking and complacency.
 Forms in duplicate that need not exist are a minor issue within a large
 organization.
-
-
-
-
 
 ### Summary
 
@@ -214,6 +210,70 @@ physically taxing, but cognitively simple.
 
 
 ## Compound
+
+As I mentioned, there were two computers in the mailroom. One for processing FedEx
+and one for processing UPS. The computers were nearly identical save the software running
+on them and the printer attached. The software and printers were provided by the carrier.
+The computers were property of the law firm.
+
+Now and then, the printer would jam or the computer would fail to perform its assigned duty.
+I was a computer hobbyist as a teen and was comfortable around computers. I had limited
+experience with the inner-workings of a computer, but had no qualms about hooking
+up serial devices, toggling interrupt switches, or fiddling with peripherals in general.
+This was sufficient to elevate me to the mailroom's technical support position.
+If the printer jammed or the software needed an update, I was your man. If cycling the
+power didn't fix a glitch, I was informed right away.
+
+One day, the FedEx computer died. I think it was a bad power supply, but back then
+I just knew it was "busted". Computers were expensive, in short supply, and priority
+went to partners and senior associates. We weren't going to get a new computer for weeks,
+it at all. So, I went about figuring out how to get both programs and printers working
+on a single computer. A couple of hours reading the manual and fumbling around and I
+had both printers working. Another hour and I had both pieces of software installed on the machine.
+I additionally installed the firm's standard menu system and wrote up some brief instructions
+on how to exit one program and launch the other. Not too long thereafter, I found myself
+working full time in the computer room as a junior PC technician.
+
+This work was different. There were manuals, but there were few documented procedures.
+Tom, my new boss, was a phone technician who'd recently made the transition to
+PC repair. Neither of us was remarkably well equipped for the role.
+
+At the time, desktop computers were being used as a lower cost alternative to
+proprietary dumb terminals. The demand was relatively low. We'd purchase maybe one
+computer per week to replace a broken terminal or to outfit a new secretary.
+As each PC came in, we'd open the case and install a WANG Local Office Connection Card (WLOC Card).
+We'd configure switches on the motherboard to allow for the WLOC Card.
+We'd configure some additional switches on the card, assigning each a unique address. We'd then test
+the connection and install the computer at the user's desk, wiring it to the
+mainframe through coax cables. This should have been a simple repeatable process,
+but the firm bought these machines one at a time from the lowest cost provider
+they could find. That meant that one week we were preparing an IBM machine,
+the next week was Hyundai (yes, that Hyundai), and the week after that was some
+unknown local brand that was out of business the week after. It seemed like every
+machine was different. The switches on the motherboard were in different locations
+and indicated different things; even between machines from the same provider.
+Every install required us to analyze the machine's internals, figure out the configuration,
+and decide on a course of action.
+
+About six months in, some of us in the computer room started messing around with
+a local area network (LAN). It allowed us to connect machines together without the mainframe
+and it allowed us to share files and communicate with each other from different machines.
+With this new capability, computers became all the rage within the firm.
+Before we knew it, we'd hired contractors to re-wire the entire building with category 3 wiring.
+We replaced WLOC Cards with Network Information Connection Cards (NIC Cards) and
+an emulator. We switched from a terminal-based word processor to WordPerfect. Computers
+replaced every dumb terminal in the company. Suddenly attorneys needed computers too
+as our internal library could not keep up with the growing demand for computer time
+to search Lexis Nexis and legal bulletin boards.
+
+With this many computers and this many novice users, there was no shortage of issues.
+If a computer was broken, the mailroom would pick it up and drop it off in the computer room
+for us to tend to along with a note from the user detailing the issue. Notes ranged from "broken"
+to detailed (and almost completely wrong) analysis of the issue and recommendations for how to fix it.
+
+
+
+
 - Cause and effect still determinable
 - Multiple paths to solution
 - Good practices.
