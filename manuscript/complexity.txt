@@ -317,14 +317,30 @@ While a manager can set procedures for how to execute the discrete parts, a
 manager must rely on the knowledge of the worker to analyze the situation.
 It is valuable here for workers to understand as much about the system as they can.
 
+### Summary
 
-- Cause and effect still determinable
-- Multiple paths to solution
-- Good practices.
+A compound context is stable with clear cause and effect relationships,
+but the cause and effect are not easily discerned by most people.
+There are often multiple equally good paths to a solution. The notion of best practice
+does not apply as well to this context. Instead, we have good practices.
 
-There is still a clear relationship between cause and effect, but the context is interconnected enough
-that there are multiple equally good ways to preform the task.
-There are good practices, but not necessarily best practices.
+Management needs to be more collaborative than in the simple domain. Hierarchy
+is less beneficial here and improperly implemented can be overly restrictive.
+Workers spend their time sensing, analyzing, and responding. Deep knowledge and
+experience are beneficial as they improve the worker's analysis skills.
+Creativity and problem solving are valuable activities in this context, but
+are not paramount. One can learn the skills necessary without being particularly creative.
+
+The key risks here are over-analysis and entrenched thinking. Over-analysis is
+the result of a desire to make the "right" choice among a few viable options.
+Taken to an extreme, over-analysis leads to "analysis paralysis" wherein an individual
+or group are unable to make a decision out of concern of disagreement.
+This is where hierarchy still has value. The manager can either make the call or
+coach the individual or facilitate a team discussion. While entrenched thinking
+is also a risk in the compound domain, the risk moves from management to
+the members of the team. Doing things they way we've always done them and ignoring
+new information, tools, and techniques can lead to lost opportunities.
+
 
 ## Emergent
 
