@@ -20,7 +20,8 @@ but be able to keep track of multiple requests and get them done.
 
 We did mail runs three times per day; one at 8:30am, one at 1:30pm, and one at 5:00pm.
 Each run consisted of 4 routes.
-Most times, four employees went out, each taking a single route. Now and then, you'd have to take two routes.
+Most times, four employees went out, each taking a single route.
+Now and then, you'd have to take two routes.
 For each route, there were approximately 75 stops where you checked for outgoing mail and dropped off any incoming mail.
 The majority of the stops were baskets or trays atop a secretary's workstation.
 On average, a secretary worked with three attorneys.
@@ -51,30 +52,33 @@ into a large box and label it for overnight delivery to the appropriate office.
 At the end of the day, no matter how much content was in each office's bag, it
 got packaged, labeled, and shipped.
 
-Our Manager was a man named Greg. Greg had worked the mailroom for years
-and he'd worked another in a firm across town for several years prior to that.
+Our Manager was a man named Greg.
+Greg had worked the mailroom for years and he'd worked another in a firm across
+town for several years prior to that.
 We had two PCs in the mailroom; the first two PCs in the firm.
 One for creating FedEx labels. The other for UPS.
 It was the late 80s and aside from those two devices,
 not much about mailrooms had changed in the prior 20 years.
-Greg knew it inside and out. He knew all the courier companies in town.
+Greg knew it inside and out.
+He knew all the courier companies in town.
 He knew most of their owners.
-If we had a problem with a courier package,
-he didn't bother with the standard channels,
+If we had a problem with a courier package, he didn't bother with the standard channels,
 he called the owner's desk phone direct.
 He knew every FedEx and UPS delivery person.
 He knew the crews working the docks.
 He knew all the freight elevator operators.
 He knew the building maintenance and management crews.
 He even knew the people who supplied and repaired dictation equipment.
-He knew just about everything there was to know about every possible aspect of running that mailroom.
+He knew just about everything there was to know about every possible aspect of
+running that mailroom.
 I say "just about" only to leave room for an extremely remote possibility,
 but the truth is, as far as I could tell, Greg knew it all and then some.
 
 We had straight forward procedures for most everything.
 There was a way we ran the routes and a way we sorted the mail.
 There was paperwork and procedure for FedEx and UPS.
-We had a process for courier requests and policies covering the handling of legal briefs and discovery documents.
+We had a process for courier requests and policies covering the handling of
+legal briefs and discovery documents.
 There was a documented procedure for how the Pitney Bowes collator was used.
 
 Notes and instructions were all about.
@@ -82,17 +86,18 @@ There were labels on every compartment in the sorting wall.
 Procedures were posted above the large equipment
 and laminated instructions were next to the PCs.
 
-If you didn't know how to do something, you asked your co-workers. If they didn't know, Greg knew.
+If you didn't know how to do something, you asked your co-workers.
+If they didn't know, Greg knew.
 
 If you had an idea about how to improve the process, you spoke with Greg.
 He'd listen patiently, often with a look of mild amusement;
 a kindly appreciation for your naive contribution.
 He'd tell you he'd think about it. He always said he'd think about it.
-Greg rarely said "no" at the presentation of an idea, no matter how many times he'd heard it before.
-Later that day or early the next,
-Greg would tell you a story about a time someone did something similar to your suggestion
-and an attorney was angered by the resultant inconvenience,
-a paralegal had to deliver a package themselves,
+Greg rarely said "no" at the presentation of an idea,
+no matter how many times he'd heard it before.
+Later that day or early the next, Greg would tell you a story about a time
+someone did something similar to your suggestion and an attorney was angered by
+the resultant inconvenience, a paralegal had to deliver a package themselves,
 or a filing failed to make it to the court by the deadline.
 The procedures existed to avoid error and to ensure the mailroom ran efficiently.
 These were the best practices available and they'd been proven over time.
@@ -118,89 +123,104 @@ This is the nature of simple work.
 From the mailroom to the filing room to the stock yards and manufacturing floors
 of the 1900s when top-down hierarchical management first proved far superior
 to the less structured work environments of the day.
-Simple work can be entirely understood and
-a single person can and often does know the entire domain.
-Workers need not solve new or unique problems
-or even understand how the overall system works.
+Simple work can be entirely understood and a single person can and often does
+know the entire domain.
+Workers need not solve new or unique problems or even understand how the overall
+system works.
 They only need to be able to sense, categorize, and respond according to procedure.
 Creativity is not necessary and is often unwelcome.
-In fact, deviance from standard can create an unstable system
-resulting in loss of efficiency and resource.
+In fact, deviance from standard can create an unstable system resulting in loss
+of efficiency and resource.
 
 While typically quite effective, the hierarchical approach to simple work
-is not entirely risk free. To begin with, management cannot be at all places at
-all times. It is possible a worker or group of workers will fail to properly categorize
-the work before them and will execute a process that hinders the system. Say, for example,
-the mailroom staff was not aware that an attorney was visiting the Chicago office from
-the D.C. office to work on a key case. We'd route correspondence to D.C. per procedure,
-ensuring at least a 24 hour delay in delivery as the D.C. mailroom would then need
-to forward the item on to Chicago. Not properly marked, Chicago might categorize
-this as a mis-routed item and dutifully and efficiently send it back to D.C.
+is not entirely risk free.
+To begin with, management cannot be at all places at all times.
+It is possible a worker or group of workers will fail to properly categorize
+the work before them and will execute a process that hinders the system.
+Say, for example, the mailroom staff was not aware that an attorney was
+visiting the Chicago office from the D.C. office to work on a key case.
+We'd route correspondence to D.C. per procedure, ensuring at least a 24 hour
+delay in delivery as the D.C. mailroom would then need to forward the item on
+to Chicago.
+Not properly marked, Chicago might categorize this as a mis-routed item and
+dutifully and efficiently send it back to D.C.
 
 While these may be minor inconveniences that have little impact, a 24 hour delay
 in a time sensitive case may result in a missed filing or a violation of discovery
-rules or any other number of detrimental outcomes. Cases have been lost, millions
-of dollars have been paid out, and people's lives have been ruined simply because
-a key piece of information didn't get to counsel on time or a procedural requirement
-was missed with the courts.
+rules or any other number of detrimental outcomes.
+Cases have been lost, millions of dollars have been paid out, and people's
+lives have been ruined simply because a key piece of information didn't get to
+counsel on time or a procedural requirement was missed with the courts.
 
 In a simple context, there is the additional risk of entrenched thinking and complacency.
-Best practices become sacrosanct. They are proven. The are best. As such,
-they cannot be bettered. Once one has mastered a simple domain and put a working
-system in place, they may not realize the need to continue to monitor and adjust over time.
+Best practices become sacrosanct.
+They are proven.
+They are best.
+As such, they cannot be bettered.
+Once one has mastered a simple domain and put a working system in place,
+they may not realize the need to continue to monitor and adjust over time.
 
-With the introduction of alternate delivery services,
-desktop computers, email, and eventually intranets, the mailroom was slow to
-adopt any of the advances. For years, supplies were requested via a simple procedure.
+With the introduction of alternate delivery services, desktop computers, email,
+and eventually intranets, the mailroom was slow to adopt any of the advances.
+For years, supplies were requested via a simple procedure.
 An employee would complete a supply requisition form and drop it in their outbound mail box.
-This was a pressure form that made two additional copies, allowing the original and one copy
-to route to the mailroom and providing the requestor a copy for their own records.
-The mailroom would pull the supplies, checking off each item as they went. They
-would then separate the second copy from the original and send it back in the supply package
-as a record of having satisfied the request. This original, once completed, was filed
-for 12 months and then disposed of.
+This was a pressure form that made two additional copies, allowing the original
+and one copy to route to the mailroom and providing the requestor a copy for
+their own records.
+The mailroom would pull the supplies, checking off each item as they went.
+They would then separate the second copy from the original and send it back in
+the supply package as a record of having satisfied the request.
+This original, once completed, was filed for 12 months and then disposed of.
 
-Once email became ubiquitous, people wanted to be able to shoot off an email rather than
-filling out a paper form. The mailroom agreed and set up a computer to help process these requests.
+Once email became ubiquitous, people wanted to be able to shoot off an email
+rather than filling out a paper form.
+The mailroom agreed and set up a computer to help process these requests.
 An operator, who sat at a desk in the file room, processed each email request,
-transposing it onto the standard form. The original with attached first copy was
-routed to the mailroom for completion. The second copy was routed to the requestor.
+transposing it onto the standard form.
+The original with attached first copy was routed to the mailroom for completion.
+The second copy was routed to the requestor.
 On the next run, both items were collected and taken to the mailroom for processing.
-The requestor's copy would be placed in their outbound bin. The supplies would then be picked
-and packaged and placed in the requestor's outbound bin. The original would get filed.
-On the next run, the requestor would receive their supplies and two transposed paper copies of their
-email request, one with checkmarks and one without. They would, of course, throw away
-both copies.
+The requestor's copy would be placed in their outbound bin.
+The supplies would then be picked and packaged and placed in the requestor's
+outbound bin.
+The original would get filed.
+On the next run, the requestor would receive their supplies and two transposed
+paper copies of their email request, one with checkmarks and one without.
+They would, of course, throw away both copies.
 
 There was clearly a better way to do this work, but forms in triplicate had so
 long stood as the best practice, they persisted without question as the changing
 environment transformed them from providing value to complete waste.
 
 This example shows the folly and even humor of entrenched thinking and complacency.
-Forms in duplicate that need not exist are a minor issue within a large
-organization.
+Forms in duplicate that need not exist are a minor issue within a large organization.
 
 ### Summary
 
-A simple context is stable with clear cause and effect relationships that are easily discerned by most everyone.
-There is a best way to perform each task; a best practice, which is either self-evident
-or easily conveyed with minimal training.
+A simple context is stable with clear cause and effect relationships that are
+easily discerned by most everyone.
+There is a best way to perform each task;
+a best practice, which is either self-evident or easily conveyed with minimal training.
 
 Management is top-down and this hierarchy helps to ensure that each individual is
 being fully, optimally utilized in a system as predictable and efficient as possible.
 Workers spend their time sensing, categorizing, and responding by executing the
-pre-determined procedures. Creativity and problem solving are rare activities
-in this context and are primarily the responsibility of management.
+pre-determined procedures.
+Creativity and problem solving are rare activities in this context and are
+primarily the responsibility of management.
 
-The key risks here are mis-categorization and entrenched thinking. Mis-categorization
-results in execution of the wrong procedure. For the mailroom at a major law firm, as an example,
-the impact can range from a minor inconvenience, such as non-critical materials being delivered late,
-to loss of a case or a key client, possibly even heavy fines and jail time. Entrenched thinking
-results in lost opportunity. For any company that operates in a simple context, this
-can mean a less than optimally efficient operation and loss of profit due to waste.
-It can also mean losing market share to companies more responsive and nimble in the
-face of change. Sufficiently entrenched companies can be run out of business whilst
-they struggle against their own inertia.
+The key risks here are mis-categorization and entrenched thinking.
+Mis-categorization results in execution of the wrong procedure.
+For the mailroom at a major law firm, as an example, the impact can range from
+a minor inconvenience, such as non-critical materials being delivered late,
+to loss of a case or a key client, possibly even heavy fines and jail time.
+Entrenched thinking results in lost opportunity.
+For any company that operates in a simple context, this can mean a less than
+optimally efficient operation and loss of profit due to waste.
+It can also mean losing market share to companies more responsive and nimble in
+the face of change.
+Sufficiently entrenched companies can be run out of business whilst they
+struggle against their own inertia.
 
 Much of what we know today as management was formulated in this context.
 Frederick Winslow Taylor, the creator of Scientific Management and one of the most
@@ -211,106 +231,132 @@ physically taxing, but cognitively simple.
 
 ## Compound
 
-As I mentioned, there were two computers in the mailroom. One for processing FedEx
-and one for processing UPS. The computers were nearly identical save the software running
-on them and the printer attached. The software and printers were provided by the carrier.
+As I mentioned, there were two computers in the mailroom.
+One for processing FedEx and one for processing UPS.
+The computers were nearly identical save the software running on them and the
+printer attached.
+The software and printers were provided by the carrier.
 The computers were property of the law firm.
 
 Now and then, the printer would jam or the computer would fail to perform its assigned duty.
-I was a computer hobbyist as a teen and was comfortable around computers. I had limited
-experience with the inner-workings of a computer, but had no qualms about hooking
-up serial devices, toggling interrupt switches, or fiddling with peripherals in general.
+I was a computer hobbyist as a teen and was comfortable around computers.
+I had limited experience with the inner-workings of a computer, but had no
+qualms about hooking up serial devices, toggling interrupt switches, or
+fiddling with peripherals in general.
 This was sufficient to elevate me to the mailroom's technical support position.
-If the printer jammed or the software needed an update, I was your man. If cycling the
-power didn't fix a glitch, I was informed right away.
+If the printer jammed or the software needed an update, I was your man.
+If cycling the power didn't fix a glitch, I was informed right away.
 
-One day, the FedEx computer died. I think it was a bad power supply, but back then
-I just knew it was "busted". Computers were expensive, in short supply, and priority
-went to the secretaries of partners and senior associates.
+One day, the FedEx computer died.
+I think it was a bad power supply, but back then I just knew it was "busted".
+Computers were expensive, in short supply, and priority went to the secretaries
+of partners and senior associates.
 We weren't going to get a new computer for weeks, if at all.
 So, I went about figuring out how to get both programs and printers working
-on a single computer. A couple of hours reading the manual and fumbling around and I
-had both printers working. Another hour and I had both pieces of software installed on the machine.
-I additionally installed the firm's standard menu system and wrote up some brief instructions
-on how to exit one program and launch the other. Not too long thereafter, I found myself
-working full time in the computer room as a junior PC technician.
+on a single computer.
+A couple of hours reading the manual and fumbling around and I had both printers
+working.
+Another hour and I had both pieces of software installed on the machine.
+I additionally installed the firm's standard menu system and wrote up some brief
+instructions on how to exit one program and launch the other.
+Not too long thereafter, I found myself working full time in the computer room
+as a junior PC technician.
 
-This role was new to the firm. All of our word processing was done on a WANG
-mainframe system through dumb terminals. In the prior months, we'd started
-buying PCs as replacements for terminals. The PCs were cheaper and we could get them
-in days rather than weeks.
+This role was new to the firm.
+All of our word processing was done on a WANG mainframe system through dumb terminals.
+In the prior months, we'd started buying PCs as replacements for terminals.
+The PCs were cheaper and we could get them in days rather than weeks.
 
-We'd purchase maybe one computer per week to replace a broken terminal or to outfit a new secretary.
-As each PC came in, we'd open the case and install a WANG Local Office Connection Card (WLOC Card).
+We'd purchase maybe one computer per week to replace a broken terminal or to
+outfit a new secretary.
+As each PC came in, we'd open the case and install a WANG Local Office
+Connection Card (WLOC Card).
 We'd configure switches on the motherboard to allow for the WLOC Card.
-We'd configure some additional switches on the card, assigning each a unique address. We'd then test
-the connection and install the computer at the user's desk, connecting it to the
-mainframe through the same coax cables the dumb terminals used.
+We'd configure some additional switches on the card, assigning each a unique address.
+We'd then test the connection and install the computer at the user's desk,
+connecting it to the mainframe through the same coax cables the dumb terminals used.
 This should have been a simple repeatable process, but the firm bought these
 machines one at a time from the lowest cost provider they could find.
-That meant that one week we were preparing an IBM machine,
-the next week was Hyundai (yes, that Hyundai), and the week after that was some
-unknown local brand that was out of business the week after. Nearly every
-machine was unique on some way. The switches on the motherboard were in different locations
-and indicated different things. This was often true between machines from the same provider, received in the same shipment.
-Every install required us to analyze the machine's internals, figure out the configuration,
-and decide on a course of action.
+That meant that one week we were preparing an IBM machine, the next week was
+Hyundai (yes, that Hyundai), and the week after that was some unknown local
+brand that was out of business the week after.
+Nearly every machine was unique on some way.
+The switches on the motherboard were in different locations and indicated
+different things.
+This was often true between machines from the same provider, received in the same shipment.
+Every install required us to analyze the machine's internals, figure out the
+configuration, and decide on a course of action.
 
 About six months in, some of us in the computer room started messing around with
-a local area network (LAN). It allowed us to connect machines together without the mainframe
-and it allowed us to share files and communicate with each other from different machines.
+a local area network (LAN).
+It allowed us to connect machines together without the mainframe and it allowed
+us to share files and communicate with each other from different machines.
 With this new capability, computers became all the rage within the firm.
 We hired contractors to re-wire the entire building with 10baseT wiring and we
 settled on a single vendor for all new computers.
-We replaced WLOC Cards with Network Interface Controller Cards (NIC Cards) and installed
-an emulator. We switched from a terminal-based word processor to WordPerfect. Computers
-replaced every dumb terminal in the company. Suddenly attorneys needed computers too
-as our internal library could not keep up with the growing demand for computer time
-to search the LexisNexis system and legal bulletin boards (this was before the World Wide Web).
+We replaced WLOC Cards with Network Interface Controller Cards (NIC Cards) and
+installed an emulator.
+We switched from a terminal-based word processor to WordPerfect.
+Computers replaced every dumb terminal in the company.
+Suddenly attorneys needed computers too as our internal library could not keep
+up with the growing demand for computer time to search the LexisNexis system and
+legal bulletin boards (this was before the World Wide Web).
 
-Before long, we were running a full PC support desk. Employees would call the
-hotline and we'd try to walk them through their issues. In many cases, we were
-helping folks with tricky features in WordPerfect or walking them through adding
-a new software option to their menu system. In other cases, the PCs were physically broken.
+Before long, we were running a full PC support desk.
+Employees would call the hotline and we'd try to walk them through their issues.
+In many cases, we were helping folks with tricky features in WordPerfect or
+walking them through adding a new software option to their menu system.
+In other cases, the PCs were physically broken.
 
 A physically broken PC was collected and returned to the support desk.
-There, we'd review any notes that came with the PC, analyze the machine, narrow our
-list of possible issues, and decide on a course of action. In the beginning, our
-standard course of action was to verify an issue, fill out a service sheet and
-set the machine aside to go out to a professional repair shop. Some days, there would
-be as many as a dozen machines sitting in a stack for repair.
+There, we'd review any notes that came with the PC, analyze the machine, narrow
+our list of possible issues, and decide on a course of action.
+In the beginning, our standard course of action was to verify an issue, fill
+out a service sheet and set the machine aside to go out to a professional
+repair shop.
+Some days, there'd be as many as a dozen machines sitting in a stack for repair.
 
 Bored while on a break and sitting on a chair in front of the repair stack, it
-occurred to me that we could reduce turn-around if we could actually fix the machines
-ourselves. We already had the tools to take them apart. We knew how to add and remove
-peripherals. We knew how to run some basic diagnostics. We should be able to do this.
+occurred to me that we could reduce turn-around if we could actually fix
+the machines ourselves.
+We already had the tools to take them apart.
+We knew how to add and remove peripherals.
+We knew how to run some basic diagnostics.
+We should be able to do this.
 
-I started by consolidating issues. I wasn't really fixing the problems, but I was
-reducing the number of people affected. Say several PCs were waiting for repair.
+I started by consolidating issues.
+I wasn't really fixing the problems, but I was reducing the number of people
+affected.
+Say several PCs were waiting for repair.
 If one had a bad video card and one had a bad hard drive, I'd swap the video cards.
 Now we had one working machine and one with both a bad card and bad hard drive.
 
-A common problem with bad hard drives was the controller card. The drive itself
-was fine, but the logic board that controlled it was bad. I kept a few good controller
-cards on the desk. If a "bad hard drive" came in, I'd swap the controller card to
-see if that worked. If it did, I'd swap the bad card for a good one in a different
-machine already going out for repair and update the service note to indicate this
-one also had a bad disk controller.
+A common problem with bad hard drives was the controller card.
+The drive itself was fine, but the logic board that controlled it was bad.
+I kept a few good controller cards on the desk.
+If a "bad hard drive" came in, I'd swap the controller card to see if that
+worked.
+If it did, I'd swap the bad card for a good one in a different machine already
+going out for repair and update the service note to indicate this one also had
+a bad disk controller.
 
-I rapidly got better at analyzing the problems in more detail. I could figure out
-if a bad drive was the controller, a head crash, or another of a dozen possibilities.
-I could remove and solder common chips, bringing motherboards back to life. And I
-could often order replacement parts and install them myself for less than the cost
-of the professional repair shop.
+I rapidly got better at analyzing the problems in more detail.
+I could figure out if a bad drive was the controller, a head crash, or another
+of a dozen possibilities.
+I could remove and solder common chips, bringing motherboards back to life.
+And I could often order replacement parts and install them myself for less than
+the cost of the professional repair shop.
 
-To be good at this job, you had to be able to make observations, investigate several
-options, and choose a course of action. It required more experience and specific
-knowledge. The more you learned about the domain, the better you got at the analysis
-and the better your decisions about how to proceed.
+To be good at this job, you had to be able to make observations, investigate
+several options, and choose a course of action.
+It required more experience and specific knowledge.
+The more you learned about the domain, the better you got at the analysis and
+the better your decisions about how to proceed.
 
 This is the nature of compound work.
-The analysis is required, not just categorization. You need to be able to choose
-from a number of options. And there are often equally correct paths to the solution.
+The analysis is required, not just categorization.
+You need to be able to choose from a number of options.
+And there are often equally correct paths to the solution.
 So while there are good practices, there are not necessarily best practices.
 Workers need to be able to solve problems on their own.
 While a manager can set procedures for how to execute the discrete parts, a
@@ -321,27 +367,92 @@ It is valuable here for workers to understand as much about the system as they c
 
 A compound context is stable with clear cause and effect relationships,
 but the cause and effect are not easily discerned by most people.
-There are often multiple equally good paths to a solution. The notion of best practice
-does not apply as well to this context. Instead, we have good practices.
+There are often multiple equally good paths to a solution.
+The notion of best practice does not apply as well to this context.
+Instead, we have good practices.
 
-Management needs to be more collaborative than in the simple domain. Hierarchy
-is less beneficial here and improperly implemented can be overly restrictive.
-Workers spend their time sensing, analyzing, and responding. Deep knowledge and
-experience are beneficial as they improve the worker's analysis skills.
+Management needs to be more collaborative than in the simple domain.
+Hierarchy is less beneficial here and improperly implemented can be overly restrictive.
+Workers spend their time sensing, analyzing, and responding.
+Deep knowledge and experience are beneficial as they improve the worker's
+analysis skills.
 Creativity and problem solving are valuable activities in this context, but
-are not paramount. One can learn the skills necessary without being particularly creative.
+are not paramount.
+One can learn the skills necessary without being particularly creative.
 
-The key risks here are over-analysis and entrenched thinking. Over-analysis is
-the result of a desire to make the "right" choice among a few viable options.
-Taken to an extreme, over-analysis leads to "analysis paralysis" wherein an individual
-or group are unable to make a decision out of concern of disagreement.
-This is where hierarchy still has value. The manager can either make the call or
-coach the individual or facilitate a team discussion. While entrenched thinking
-is also a risk in the compound domain, the risk moves from management to
-the members of the team. Doing things they way we've always done them and ignoring
-new information, tools, and techniques can lead to lost opportunities.
-
+The key risks here are over-analysis and entrenched thinking.
+Over-analysis is the result of a desire to make the "right" choice among a few
+viable options.
+Taken to an extreme, over-analysis leads to "analysis paralysis" wherein an
+individual or group are unable to make a decision out of concern of disagreement.
+This is where hierarchy still has value.
+The manager can either make the call or coach the individual or, better yet,
+facilitate a team discussion.
+While entrenched thinking is also a risk in the compound domain,
+the risk moves from management to the members of the team.
+Doing things they way we've always done them and ignoring new information,
+tools, and techniques can lead to lost opportunities.
 
 ## Emergent
+
+As the number of PCs in the firm grew, the cost to license our menu system was
+becoming excessive.
+We were planning to transition to Microsoft Windows, but had at least a year
+before we'd begin the project and possibly several years before it was complete.
+Many of the computers in the firm were not capable of running Windows and the
+cost to upgrade them all was additionally prohibitive.
+
+I'd been programming in Assembler, writing low-level disk utilities and other
+tools to help us with PC diagnosis and repair.
+I'd recently written a program to provide simple ascii based menus and pop-up
+windows to improve the interface of some of the more involved batch files we
+were running on PCs.
+I decided it would not be too much of a stretch to create an actual menu system
+and replace the costly one we were using.
+It took a bit of time and I learned a good deal as I went along, but within a
+few weeks, I'd coded a complete replacement for the existing menu system.
+Within another couple of weeks, I'd added features not previously available
+such as the ability to easily add new items and sub-menus, some basic security
+settings, and the ability to upgrade the system via a network file copy while
+maintaining the local settings.
+
+The new menu system was a hit.
+Not only was it better than our previous system, but it allowed us to opt-out
+of a $50k renewal with our current provider.
+This was a savings more than twice my salary (remember, this was the early 90s
+and I was still officially a junior PC repair technician).
+
+With the launch of the menu system, I was promoted to junior PC programmer and
+moved off of support desk.
+
+I was assigned to a team responsible for the re-write of the company's
+legal docketing system.
+We were in a similar, but more dire situation here.
+The Docketing software was not only proprietary, but it ran on proprietary hardware.
+The company that originally created it had folded.
+We'd contracted with a third party for hardware support,
+but the software had been out of support for years and we were
+hitting the limits of the system's capabilities.
+As we grew, the number of cases handled by the firm grew drastically and the
+docketing system was straining under the load.
+Searches were taking far too long.
+Simple data entry was taking twice as long as it used to.
+The docketing department had to hire extra help to get through the load,
+which meant more people doing data entry at the same time, slowing the system even more.
+We estimated we had less than one year to completely replace the system.
+The replacement needed to provide all the same functionality along with several
+new features.
+At the same time, we had to ensure we didn't lose any of the historical data.
+
+We spent weeks working with the docketing team.
+We observed their work, taking copious notes.
+We discussed workflows with them, talking at length about how the  existing
+system could be improved.
+It soon became obvious that we were not re-writing the existing system.
+We were writing a new docketing system.
+One that satisfied the needs of a firm our size and was up to date with the
+latest capabilities for electronic filing and email integration.
+We decided to split the solution into two systems; one to support search and
+retrieval of historical data and one to provide the new functionality.
 
 ## Chaotic
