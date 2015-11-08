@@ -425,7 +425,7 @@ and I was still officially a junior PC repair technician).
 With the launch of the menu system, I was promoted to junior PC programmer and
 moved off of support desk.
 
-I was assigned to a team responsible for the re-write of the company's
+I was assigned to a small team responsible for the re-write of the company's
 legal docketing system.
 We were in a similar, but more dire situation here.
 The Docketing software was not only proprietary, but it ran on proprietary hardware.
@@ -446,13 +446,143 @@ At the same time, we had to ensure we didn't lose any of the historical data.
 
 We spent weeks working with the docketing team.
 We observed their work, taking copious notes.
-We discussed workflows with them, talking at length about how the  existing
+We discussed workflows with them, talking at length about how the existing
 system could be improved.
 It soon became obvious that we were not re-writing the existing system.
 We were writing a new docketing system.
 One that satisfied the needs of a firm our size and was up to date with the
 latest capabilities for electronic filing and email integration.
-We decided to split the solution into two systems; one to support search and
-retrieval of historical data and one to provide the new functionality.
+They had been suffering with the old system for so long, they had a litany
+of new features and improvements that ranged from items they thought would be
+nice to have to items that were absolutely critical.
+
+We decided to develop the application in small deliverable pieces, starting with
+basic functionality and adjusting as we went along.
+On one hand, this made sense to me, as it was pretty much how I wrote everything.
+When I was a kid working with friends on Asteroids in TR-BASIC, we started off with
+just a space ship that could spin around and shoot.
+It could not fly. The bullets did nothing.
+We then added asteroids, which were squares that moved in straight lines.
+We then added the ability to detect when the ship was hit.
+And we kept building one small piece after another until we had a pretty good
+version of the game, complete with flying ship, bullets, and breaking asteroids.
+On the other hand, part of a program is no good to anybody, right?
+It is an all or nothing proposition.
+I didn't give anyone the menu system until it was complete.
+How could we expect them to use a docketing system that didn't do everything they
+needed?
+
+Joe, my manager, assured me that small incremental steps was the right way to go
+about this.
+"Were not going to cut over until they say it is ready, but if we build an
+application this big without their feedback while we go, we'll get it wrong.
+We need to let them see it now and then. We need to let them kick the tires and
+take it for a test drive. Only then can they tell us what they really want."
+
+I was confused. "What they really want? How could they not know?", I asked.
+"I mean come on... they have a whole list of features and requirements they gave
+us on top of all the stuff the original system does. I just don't see how
+showing them a half-done system is going to help. I mean, we can build it in
+pieces, sure. But they don't need to see it until we're done."
+
+"No.", Joe said sternly, letting me know the discussion was ending here.
+"We're going to show it to them as we go. They don't know what they want and
+neither do we. They think they do, but all they know is the solution they have and
+the features they wish it had. When we show them what is possible, they'll start
+to think about it differently. And so will we. Trust me."
+
+And Joe was right.
+We actually started with basic data maintenance screens, which I was not expecting.
+But it was the fastest way to get to something they could review and give feedback on.
+What we all learned during those first few weeks was incredibly valuable.
+
+The first couple of screens seemed easy enough.
+They were straight-forward, simple data maintenance screens to manage court
+locations [and other stuff and things].
+We built the court location screen based on the existing system and the
+requirements the docketing department provided.
+We added a couple of additional fields and made the screen a little easier to use
+by switching up the tab order.
+When we showed it to them, they were delighted to see the progress.
+After a couple of minutes playing around with the screen, Cleo, one of the clerks asked,
+"Do we have to fill in this data every time?", pointing at the city, state,
+and zipcode fields.
+
+"I mean we know what city we're in. Most of these are going to be right here.
+Can we have City and State default? We can type over them if they're wrong."
+That was an easy enough change. We could add City and State to some default
+settings and have it auto fill. If they tabbed to the field, it would highlight
+the text so they could type over it. If they kept tabbing, the defaults would
+remain.
+
+We added a couple of fields to the defaults table, plunked them on the settings
+screen and wired up the court location screen. In reviewing these new features,
+the manager commented, "It would be nice to put all these court records together."
+
+"What do you mean by together?", Joe asked.
+
+"Well, she said. In the old system, every room in the building was a separate
+entry. The County court, for example, has several courtrooms. Today, we put
+every one of them in the system separately. It would be nice if we could just key
+in the building address and then for each room, indicate where it is in the
+building."
+
+"Huh. Why didn't any of us think of that before?", asked Cleo, "If we did that, we
+wouldn't even need the fields filled in for us."
+
+And so it went. We'd discuss features and functionality. We'd talk about what
+screens would look like and we'd come up with a plan. We'd build to that plan
+and then we'd change it. The more they saw of the system being built, the more
+they came up with new and different ways to achieve what they needed.
+
+I struggled with the amount of work we had to do in building something and then
+getting rid of it as we discovered new ways.
+Joe assured me, this was normal.
+"Just imagine if we'd written the whole thing first.", he said,
+"Imagine how much re-work we'd have then."
+Joe worked with me and showed me more flexible ways to write code.
+He showed me ways to test my code as I went along.
+We wrote tests that made sure key aspects of the system did what we wanted them to do.
+We were particular about what code went where.
+We moved code outside of screens into separate files.
+When we found code that was common between screens or reports, we moved it
+yet again into separate files, calling the same code from everywhere that
+required the same functionality.
+
+While a lot of this work seemed like a bit of overkill at first, I soon began
+to see the advantages.
+When we realized we needed to make a significant change to the application logic,
+there was only one place we needed to make the change.
+[GIVE AN EXAMPLE]
+
+In the end, the system we finished with was significantly different from the
+system we were replacing.
+"I never liked the way they approached the problem.",
+the docket manager explained one day,
+"It's like they wrote the whole system without ever talking to an actual
+docket department. Maybe a filing room handling docketing. The entire system
+was based on records management, not dates, filings, and proceedings. This one
+is way better."
+We couldn't have known going in what the final product would look like.
+We realized new possibilities as we were writing the system.
+The docketing department didn't know what was possible.
+They didn't actually know what they wanted.
+We'd deilver a screen or a report and after using it for while to load data or
+test the system would they come up with a new idea or an alternate approach.
+Even after we were "done" with the system, we were still making adjustments.
+New legal requirements, one docketing department handling two locations, new
+ideas for reports, electronic records transfer to differing courts and filings
+with the state.
+
+This is the nature of emergent work.
+As you cannot know the outcome up front, you must be adaptive and and able to
+respond to change.
+The pragmatic approach is not to try to plan everything up front and control it,
+but to run small safe tests to see what happens and respond accordingly.
+Probe, sense, respond is the appropriate course.
+
+
+
+
 
 ## Chaotic
