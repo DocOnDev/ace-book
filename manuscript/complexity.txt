@@ -599,16 +599,16 @@ everyone focused, and remove impediments.
 
 ### Summary
 
-In an emergent context cause and effect are discernable after the fact.
+In an emergent context cause and effect are discernible after the fact.
 Confidence in our ability to predict outcomes is folly.
 The "right" solution cannot be determined up front as working on or in the
 system actually changes the system.
 Our preferred course of action is probe, sense, respond.
 
 Management needs to be more of a facilitator.
-Adherance to hierarchy in decision making or establishing procedure is
+Adherence to hierarchy in decision making or establishing procedure is
 detrimental here.
-Teams of experienecd workers collaborate together, executing small tests and
+Teams of experienced workers collaborate together, executing small tests and
 getting rapid feedback to better inform their next step.
 
 The key risks here is a desire for determinism and failure to learn.
