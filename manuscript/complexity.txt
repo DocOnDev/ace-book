@@ -548,41 +548,80 @@ We moved code outside of screens into separate files.
 When we found code that was common between screens or reports, we moved it
 yet again into separate files, calling the same code from everywhere that
 required the same functionality.
+We broke functions into smaller functions, making them easier to read.
+"Code is for humans.", Joe would say to me.
+"The compiler writes the code for the machine."
+"Write your code so that future you doesn't hate present you when he has to fix it."
+"Don't be clever. Keep it simple."
 
 While a lot of this work seemed like a bit of overkill at first, I soon began
 to see the advantages.
 When we realized we needed to make a significant change to the application logic,
 there was only one place we needed to make the change.
-[GIVE AN EXAMPLE]
 
-In the end, the system we finished with was significantly different from the
-system we were replacing.
+
+In the end, the system we wrote was significantly different from the system we
+were replacing.
 "I never liked the way they approached the problem.",
 the docket manager explained one day,
 "It's like they wrote the whole system without ever talking to an actual
-docket department. Maybe a filing room handling docketing. The entire system
-was based on records management, not dates, filings, and proceedings. This one
-is way better."
+docket department. Maybe they worked with a filing room that handled docketing.
+I don't know. But is seems the entire system was based on records management,
+not dates, filings, and proceedings. This one is way better."
 We couldn't have known going in what the final product would look like.
 We realized new possibilities as we were writing the system.
 The docketing department didn't know what was possible.
 They didn't actually know what they wanted.
-We'd deilver a screen or a report and after using it for while to load data or
-test the system would they come up with a new idea or an alternate approach.
+We'd deliver a screen or a report or a complete workflow and after using it
+for while, they'd come up with a new idea or an alternate approach.
 Even after we were "done" with the system, we were still making adjustments.
 New legal requirements, one docketing department handling two locations, new
 ideas for reports, electronic records transfer to differing courts and filings
-with the state.
+with each state.
 
 This is the nature of emergent work.
-As you cannot know the outcome up front, you must be adaptive and and able to
+As you cannot know the outcome up front, you must be adaptive and able to
 respond to change.
 The pragmatic approach is not to try to plan everything up front and control it,
 but to run small safe tests to see what happens and respond accordingly.
 Probe, sense, respond is the appropriate course.
+This isn't to say planning has no value.
+In the words of General Dwight D. Eisenhower,
+"Plans are worthless, but planning is everything."
+Here managers need to rely on the expertise of the people involved.
+This is a highly collaborative environment where people are sharing their
+perspective and experience with one another in efforts to figure out the best
+course of action.
+While management may be one of the experts, often they are not.
+It is the team that needs to make the majority of the decisions.
+Management's role is to reinforce the objective, facilitate conversation, keep
+everyone focused, and remove impediments.
 
+### Summary
 
+In an emergent context cause and effect are discernable after the fact.
+Confidence in our ability to predict outcomes is folly.
+The "right" solution cannot be determined up front as working on or in the
+system actually changes the system.
+Our preferred course of action is probe, sense, respond.
 
+Management needs to be more of a facilitator.
+Adherance to hierarchy in decision making or establishing procedure is
+detrimental here.
+Teams of experienecd workers collaborate together, executing small tests and
+getting rapid feedback to better inform their next step.
+
+The key risks here is a desire for determinism and failure to learn.
+An emergent domain is unpredictable.
+This introduces risk, especially in environments where people are evaluated on
+their ability to be right.
+There may be a desire to demand fail-safe plans with defined outcomes; hoping
+that with enough rigor, we can control the environment.
+As we try to control the environment, we impede the opportunity to learn.
+Without that learning; without an opportunity through testing, observing, and
+reflecting, we cannot determine an informed path.
+Results are therefor unforeseen and often undesirable, increasing our want
+for control and predictability.
 
 
 ## Chaotic
