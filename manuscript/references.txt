@@ -1,1 +1,5 @@
-Harvard Business Review; November 2007, "A Leaders Framework for Decision Making", https://hbr.org/2007/11/a-leaders-framework-for-decision-making
+# References
+
+Harvard Business Review; November 2007,
+"A Leaders Framework for Decision Making",
+https://hbr.org/2007/11/a-leaders-framework-for-decision-making

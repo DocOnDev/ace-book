@@ -1,4 +1,9 @@
 # Autonomy
 
-Autonomy applies both to the individual and the team. As pertains to the individual, autonomy is about having a voice in the decisions that impact one’s life and the freedom to choose a different course. As pertains to the collective, autonomy is the right to self-organize and self-govern. In a corporate environment autonomy means leaving the decisions about how work is done to those who actually do the work.
-
+Autonomy applies both to the individual and the team.
+As pertains to the individual, autonomy is about having a voice in the
+decisions that impact one's life and the freedom to choose a different course.
+As pertains to the collective, autonomy is the right to self-organize and
+self-govern.
+In a corporate environment autonomy means leaving the decisions about how work
+is done to those who actually do the work.
