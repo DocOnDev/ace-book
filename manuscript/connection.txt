@@ -1,5 +1,133 @@
 # Connection
 
+Connection is multi-faceted. It is about connection to the company's purpose,
+connection to the customer, personal connection to your fellow workers, and
+being connected through communication channels.
+
+## Aligned with the cause
+It is commonplace for companies to have mission and vision statements these days.
+Once identified as a differentiator (Good to Great?), the mission statement is
+now pervasive and benign. It isn't that too many companies having a mission statement
+has stripped such statements of value. It is simply that there are so many valueless
+mission statements, most employees scoff at their existence.
+
+With Fortune 500 companies sporting missions statements such as,
+"Profitable growth through superior customer service, innovation, quality and commitment."
+to,"The purpose of [our company] is to earn money for its shareholders and increase
+the value of their investment. We will do that through growing the company,
+controlling assets and properly structuring the balance sheet, thereby increasing
+EPS, cash flow, and return on invested capital."
+
+These mission statements don't tell us a thing about the company, why they exist, or what
+services or goods they actually offer.
+With a focus on profit, growth, or return on shareholder value, these companies seem
+to think they exist to make money.
+Customer service and quality of product are a means to an end; sustainable profits
+in service of shareholders.
+Having been both a shareholder and employee of a number of companies, I can tell
+you shareholder value was way down on the list of things that inspired me.
+I was excited by the notion of "Making the World of Software Development
+a Better Place to Work" or "Empowering the Local Business".
+When I first arrived at Groupon, the phrase "Love Local" was part of the culture.
+From T-Shirts, to banners and coffee mugs, everyone knew why we were there
+- to empower the local business.
+Mom and Pop businesses.
+Companies that are founded by your neighbors, employ your neighbors, and care
+about your local community because they are genuinely members of said community.
+
+
+
+When the founding CEO was asked to step down and one of the primary investors
+stepped in to the CEO role, the company lost almost all connection with the mission.
+
+In the interest of return on shareholder value, the
+company expanded into different verticals trying to catch more lightening in a
+bottle and keep their inflated valuation high.
+
+I remember when the travel division, known as "Getaways" was started.
+I asked how this fit in with local businesses.
+"Oh, well you see, we're pointing people to bed and breakfast companies.
+The customer may be traveling, but we're still helping them discover new local businesses.
+Businesses that are local to where they are at the moment."
+
+"Interesting twist.". I thought.
+But that's not actually how it played out.
+The site launched with extremely limited options.
+Groupon was faced with the arduous task of building an inventory of local
+hotels and bed & breakfast joints or they could partner with a provider that had
+hotels available in most major cities and have a complete vertical overnight.
+Despite a sales and customer service department adept at growing a business
+through direct sales and personal vendor service and despite deep cash
+reserves, this time Groupon opted for the fast path to profitability and
+Getaways became the new model.
+Launch it fast, scale it faster, and push it to profitable or kill it.
+First bolster the top line, then squeeze to get the bottom line.
+
+Expanding into and abandoning verticals in an effort to provide a better return
+on shareholder value, the company became progressively fractured and internally
+competitive.
+Each new vertical knew that they were going to "save the company".
+Big egos and grand plans abound, internal competition was encouraged.
+Winners were lavished with praise and losers were exited.
+Heroes rose and fell in grand displays as the reality of the environment showed
+us time and again that success and skill are not necessarily correlated under
+these conditions.
+We bred bullies and then chastised them for not playing nice with others once they
+were no longer too valuable to mess with.
+Once united in a common cause, people were now members of "Getaways" or "Goods"
+or "Payments" or "Live" or "Local" or any of a number of fleeting and
+flailing efforts.
+
+In an effort to show that the company had indeed not lost its way, the CEO
+eventually redefined "Local" to mean "anywhere a consumer is".
+He spoke of the "Shopping Mall in your pocket."
+If you are inspired by the notion of empowering local mom and pop businesses, you
+are likley repulsed by the notion of a shopping mall, in pocket or otherwise.
+This new definition was an attempt to create a thin thread between the original
+inspiration and the new (aparent) mission to sell anything to anybody anywhere
+in pursuit of a buck.
+Those who were inspired by the original mission were not fooled.
+Those who were more aligned to their vertical were not inspired.
+A few years focused on money over mission and Groupon leadership drove the
+company into the ground.
+As of this writing, the second CEO has stepped down and there is a new CEO in
+his place.
+
+
+
+To be in business in order to make money is like to be alive in order to eat.
+You've got it backwards and the decisions you make as a result are more likely
+to be detrimental than beneficial.
+Greed leads to poor corporate health as surely as gluttony leads to poor personal health.
+
+And then let's take a look at the following Fortune 500 company mission statement:
+
+"We will build a unique portfolio of beauty and related brands, striving to surpass our
+competitors in quality, innovation and value, and elevating our image to become the
+beauty company most women turn to worldwide. We will become the destination store for
+women, offering the convenience of multiple brands and channels, and providing a
+personal high touch shopping experience that helps create lifelong customer relationships.
+We will expand our presence in direct selling and lead the reinvention of the channel,
+offering an entrepreneurial opportunity that delivers superior earnings, recognition,
+service and support, making it easy and rewarding to be affiliated with [us] and elevating
+the image of our industry. We will be known for our leadership edge, through our passion
+for high standards, our respect for diversity and our commitment to create exceptional
+opportunities for professional growth so that associates can fulfill their highest potential.
+We will be a committed global champion for the health and well-being of women through
+philanthropic efforts that eliminate breast cancer from the face of the earth,
+and that empower women to achieve economic independence. We will deliver superior
+returns to our shareholders by tirelessly pursuing new growth opportunities while
+continually improving our profitability, a socially responsible, ethical company
+that is watched and emulated as a model of success."
+
+If we were to create a formula for
+
+
+## Attentive to the customer
+
+## Empathy
+## Communication
+
 Connection is both internal and external.
 Connection is what makes a community.
 Internally, organizations need cohesion within and between all teams;
