@@ -12,14 +12,14 @@ has stripped such statements of value. It is simply that there are so many value
 mission statements, most employees scoff at their existence.
 
 With Fortune 500 companies sporting missions statements such as,
-"Profitable growth through superior customer service, innovation, quality and commitment."
-to,"The purpose of [our company] is to earn money for its shareholders and increase
-the value of their investment. We will do that through growing the company,
-controlling assets and properly structuring the balance sheet, thereby increasing
-EPS, cash flow, and return on invested capital."
+"Profitable growth through superior customer service, innovation, quality and
+commitment." to, "The purpose of [our company] is to earn money for its
+shareholders and increase the value of their investment. We will do that
+through growing the company, controlling assets and properly structuring the
+balance sheet, thereby increasing EPS, cash flow, and return on invested capital."
 
-These mission statements don't tell us a thing about the company, why they exist, or what
-services or goods they actually offer.
+These mission statements don't tell us a thing about the company, why they
+exist, or what services or goods they actually offer.
 With a focus on profit, growth, or return on shareholder value, these companies seem
 to think they exist to make money.
 Customer service and quality of product are a means to an end; sustainable profits
