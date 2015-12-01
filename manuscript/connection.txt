@@ -20,8 +20,8 @@ balance sheet, thereby increasing EPS, cash flow, and return on invested capital
 
 These mission statements don't tell us a thing about the company, why they
 exist, or what services or goods they actually offer.
-With a focus on profit, growth, or return on shareholder value, these companies seem
-to think they exist to make money.
+With a focus on profit, growth, or return on shareholder value, these companies
+seem to think they exist to make money.
 Customer service and quality of product are a means to an end; sustainable profits
 in service of shareholders.
 Having been both a shareholder and employee of a number of companies, I can tell
@@ -34,8 +34,6 @@ From T-Shirts, to banners and coffee mugs, everyone knew why we were there
 Mom and Pop businesses.
 Companies that are founded by your neighbors, employ your neighbors, and care
 about your local community because they are genuinely members of said community.
-
-
 
 When the founding CEO was asked to step down and one of the primary investors
 stepped in to the CEO role, the company lost almost all connection with the mission.
@@ -50,9 +48,10 @@ I asked how this fit in with local businesses.
 The customer may be traveling, but we're still helping them discover new local businesses.
 Businesses that are local to where they are at the moment."
 
-"Interesting twist.". I thought.
+"Interesting twist.", I thought.
+
 But that's not actually how it played out.
-The site launched with extremely limited options.
+The Getaways site launched with extremely limited options.
 Groupon was faced with the arduous task of building an inventory of local
 hotels and bed & breakfast joints or they could partner with a provider that had
 hotels available in most major cities and have a complete vertical overnight.
@@ -63,17 +62,18 @@ Getaways became the new model.
 Launch it fast, scale it faster, and push it to profitable or kill it.
 First bolster the top line, then squeeze to get the bottom line.
 
-Expanding into and abandoning verticals in an effort to provide a better return
-on shareholder value, the company became progressively fractured and internally
-competitive.
+Repeatedly rushing into and quickly abandoning verticals in an effort to
+provide a better return on shareholder value, the company became progressively
+fractured and internally competitive.
 Each new vertical knew that they were going to "save the company".
 Big egos and grand plans abound, internal competition was encouraged.
 Winners were lavished with praise and losers were exited.
 Heroes rose and fell in grand displays as the reality of the environment showed
 us time and again that success and skill are not necessarily correlated under
 these conditions.
-We bred bullies and then chastised them for not playing nice with others once they
-were no longer too valuable to mess with.
+We bred bullies and then chastised them for not playing nice with others
+once they were no longer too valuable to mess with.
+
 Once united in a common cause, people were now members of "Getaways" or "Goods"
 or "Payments" or "Live" or "Local" or any of a number of fleeting and
 flailing efforts.
@@ -88,11 +88,11 @@ inspiration and the new (aparent) mission to sell anything to anybody anywhere
 in pursuit of a buck.
 Those who were inspired by the original mission were not fooled.
 Those who were more aligned to their vertical were not inspired.
-A few years focused on money over mission and Groupon leadership drove the
+A couple of years focused on money over mission and Groupon leadership drove the
 company into the ground.
 As of this writing, the second CEO has stepped down and there is a new CEO in
 his place.
-
+Time will tell what happens to the once "fastest growing company in history."
 
 
 To be in business in order to make money is like to be alive in order to eat.
@@ -100,7 +100,9 @@ You've got it backwards and the decisions you make as a result are more likely
 to be detrimental than beneficial.
 Greed leads to poor corporate health as surely as gluttony leads to poor personal health.
 
-And then let's take a look at the following Fortune 500 company mission statement:
+Another common issue with mission statements is that they are too broad.
+A mission statement that includes several objectives provides little clarity.
+Let's take a look at the following Fortune 500 company mission statement:
 
 "We will build a unique portfolio of beauty and related brands, striving to surpass our
 competitors in quality, innovation and value, and elevating our image to become the
@@ -120,7 +122,48 @@ returns to our shareholders by tirelessly pursuing new growth opportunities whil
 continually improving our profitability, a socially responsible, ethical company
 that is watched and emulated as a model of success."
 
-If we were to create a formula for
+Let's break this one down.
+
+This company is going to be the leading women's beauty company worldwide,
+be a destination store with a high-touch experience,
+reinvent direct selling,
+offer superior entrepreneurial opportunities,
+empower women to economic independence,
+elevate the image of their entire industry,
+be known for leadership,
+eliminate breast cancer,
+and deliver superior returns to shareholders.
+
+This is an inspiring read.
+I imagine many who read this would say,
+"These are wonderful, meaningful and inspiring goals. I'd like to work for
+this company."
+
+The challenge is the breadth of the statement.
+If you work for this company and are in the third quarter of a down-turn,
+do you cut back on contributions to philanthropic organizations providing
+leading breast cancer research, do you adjust compensation structures for
+your independent (entrepreneurial) direct sellers, or do you provide
+shareholders with a lower return or even a loss?
+
+And if there is a rise in demand for beauty products for men, do you enter that
+market or not?
+Entering the men's market allows for growth and better returns which
+also allows for larger philanthropic contributions.
+It may elevate the image of the industry, depending on how that's defined.
+It may show great leadership.
+But it is inconsistent with the goal to be the leading women's beauty company.
+
+In my opinion, a short and simple statement such as,
+"To improve the wellbeing of women everywhere through economic opportunities
+with a focus on health and beauty.",
+is a significant improvement over the existing 1500+ word statement.
+This short, simple statement provides clarity and flexibility.
+If you don't care about the wellbeing of women everywhere, don't join this
+company.
+If you are not interested in health and beauty, don't join this company.
+When faced with challenges and opportunities, this company is going to make
+decisions that are consistent with this simple statement.
 
 
 ## Attentive to the customer
