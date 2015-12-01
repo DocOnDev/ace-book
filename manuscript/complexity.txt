@@ -460,8 +460,9 @@ They had been suffering with the old system for so long, they had a litany
 of new features and improvements that ranged from items they thought would be
 nice to have to items that were absolutely critical.
 
-We decided to develop the application in small deliverable pieces, starting with
-basic functionality and adjusting as we went along.
+Joe, my new manager and lead of the development team for the docketing system,
+announced that we were going to work on the application in small deliverable
+pieces, starting with basic functionality and adjusting as we went along.
 
 On one hand, this made sense to me, as it was pretty much how I wrote everything.
 When I was a kid working with friends on Asteroids in TR-BASIC, we started off with
@@ -470,12 +471,19 @@ It could not fly.
 The bullets did nothing.
 But we'd play with that ship anyway.
 Trying every possible move we could think of.
-We learned that we needed to put a limit to the ships speed or we couldn't
-control it after a certain point.
+While it couldn't fly, we learned that we needed to code some kind of
+transition when the direction of rotation changed.
+Say the ship was moving clockwise and we pressed and held the left arrow,
+indicating it should move counter-clockwise.
+An abrupt change in direction felt unnatural.
+This wasn't how it would work in the "real world".
+Once we introduced forward motion and acceleration, we learned that we needed
+to put a limit to the ships speed or we couldn't control it after a certain point.
 We learned that the speed of the bullet needed to be some constant plus the speed
 of the ship or a bullet could be overtaken by the ship that just fired it.
 We then added asteroids, which were squares that moved in straight lines.
-We then added the ability to detect when the ship was hit.
+We then added the ability to detect when the ship was hit; first by asteroids and
+then by its own bullets.
 With asteroids in the way and bullets flying around, we made adjustments to the
 steering to allow for better control and we worked out how the ship behaved
 with and without thrusters turned on.
@@ -488,14 +496,13 @@ What good is a half finished program?
 We're not kids writing silly video games.
 This is real software for real adults in a real business context.
 As another developer on the team used to say,
-"You don't want to show them the sausage until it is completely ready. Nobody
-wants to see how their sausage is made."
+"You don't want to show them the sausage until it is completely ready.
+Nobody wants to see how their sausage is made."
 I mean, I didn't give anyone the menu system until it was complete.
 How could we expect them to use a docketing system that didn't do everything they
 needed?
 
-Joe, my manager, assured me that small incremental steps was the right way to go
-about this.
+Joe assured me that small incremental steps was the right way to go about this.
 "Were not going to cut over until they say it is ready, but if we build an
 application this big without their feedback while we go, we'll get it wrong.
 We need to let them see it now and then. We need to let them kick the tires and
@@ -513,9 +520,27 @@ neither do we. They think they do, but all they know is the solution they have a
 the features they wish it had. When we show them what is possible, they'll start
 to think about it differently. And so will we. Trust me."
 
-And Joe was right.
-We actually started with basic data maintenance screens, which I was not expecting.
-But it was the fastest way to get to something they could review and give feedback on.
+"I want you to think about how you actually wrote and delivered the menus.",
+Joe said.
+"You started with the basics. You had the abiity to navigate a single menu
+before you introduced sub-menus. You had sub-menus before you added the ability
+to edit menus. You worked on it in pieces all along, right?"
+
+"Well sure", I replied, "but I didn't deliver it until it was done."
+
+"Oh really?", said Joe with a turned up brow, "Didn't you just add a new
+security feature last week? In fact, didn't you write it so that you could
+easily update it on people's machines? Why would you do that if it was 'done'?"
+
+This was, of course, a rhetorical question.
+Joe was right.
+I did write it in small steps.
+And I was still adding features to it after it was "done".
+
+When we started on the Docketing system, much to my surprise, we started with
+basic data maintenance screens.
+It was the fastest way to get to something they could review and give feedback on.
+And it allowed us to get a hands-on look at our attempts to import the legacy data.
 What we all learned during those first few weeks was incredibly valuable.
 
 The first couple of screens seemed easy enough.
