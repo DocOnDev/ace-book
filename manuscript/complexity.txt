@@ -22,30 +22,34 @@ We did mail runs three times per day; one at 8:30am, one at 1:30pm, and one at 5
 Each run consisted of 4 routes.
 Most times, four employees went out, each taking a single route.
 Now and then, you'd have to take two routes.
-For each route, there were approximately 75 stops where you checked for outgoing mail and dropped off any incoming mail.
+For each route, there were approximately 75 stops where you checked for outgoing
+mail and dropped off any incoming mail.
 The majority of the stops were baskets or trays atop a secretary's workstation.
 On average, a secretary worked with three attorneys.
 This meant that on a single route, you were handling mail for as many as 300 people.
 If you caught a double, you were handling mail for 600.
-When you got back to the mailroom, you needed to sort your cart by intra-office, inter-office, and outbound mail.
+When you got back to the mailroom, you needed to sort your cart by intra-office,
+inter-office, and outbound mail.
 
 While on a run, you were guaranteed to get additional requests.
 
 > "Hey Michael, can you do me a favor, hmmm?
 Mr. Thompson needs new batteries in his dictaphone.
-Can you be a doll and send some back to me in the mail next run? Thanks so much."
+Can you be a doll and send some back to me in the next mail run? Thanks so much."
 
 > "You there, office boy, um.. Oh, whatever your name is.
 The corner conference room is a mess.
 Get someone to clean it up before 2pm. I have an important meeting. Goddamn slobs..."
 
-And I can assure you from personal experience,
-Mr. Too-important-to-remember-your-name will recall it perfectly if that office is not cleaned up by 2pm.
+And I can assure you from personal experience that
+Mr. Too-important-to-remember-your-name will recall it perfectly if that
+conference room is not cleaned up by 2pm.
 
 Now when we weren't doing runs and taking care of random errands,
-we were receiving packages from several over the road carriers as well as local couriers.
+we were receiving packages from several over the road carriers and local couriers.
 Packages would come in, either direct to the mailroom or through the docks.
-We'd burst, sort, categorize, slot, weigh and stamp all in preparation for the next run.
+We'd burst, sort, categorize, slot, weigh and stamp all packages in preparation
+for the next run.
 
 Whenever the remote office bags got full, we'd transfer the contents of the bag
 into a large box and label it for overnight delivery to the appropriate office.
@@ -62,8 +66,8 @@ not much about mailrooms had changed in the prior 20 years.
 Greg knew it inside and out.
 He knew all the courier companies in town.
 He knew most of their owners.
-If we had a problem with a courier package, he didn't bother with the standard channels,
-he called the owner's desk phone direct.
+If we had a problem with a courier package, he didn't bother with the standard
+channels, he called the owner's desk phone direct.
 He knew every FedEx and UPS delivery person.
 He knew the crews working the docks.
 He knew all the freight elevator operators.
@@ -83,8 +87,8 @@ There was a documented procedure for how the Pitney Bowes collator was used.
 
 Notes and instructions were all about.
 There were labels on every compartment in the sorting wall.
-Procedures were posted above the large equipment
-and laminated instructions were next to the PCs.
+Procedures were posted above the large equipment and laminated instructions
+were next to the PCs.
 
 If you didn't know how to do something, you asked your co-workers.
 If they didn't know, Greg knew.
@@ -92,7 +96,8 @@ If they didn't know, Greg knew.
 If you had an idea about how to improve the process, you spoke with Greg.
 He'd listen patiently, often with a look of mild amusement;
 a kindly appreciation for your naive contribution.
-He'd tell you he'd think about it. He always said he'd think about it.
+"I'll think about it.", he'd say.
+He always said he'd think about it.
 Greg rarely said "no" at the presentation of an idea,
 no matter how many times he'd heard it before.
 Later that day or early the next, Greg would tell you a story about a time
@@ -103,9 +108,7 @@ The procedures existed to avoid error and to ensure the mailroom ran efficiently
 These were the best practices available and they'd been proven over time.
 
 Simple work is not necessarily easy work.
-We kept busy,
-we operated efficiently,
-and we ended many days physically exhausted.
+We kept busy, we operated efficiently, and we ended many days physically exhausted.
 To accomplish the work, you needed a strong back and a good memory (or a trusty notepad).
 In addition to these, you needed to be able to read and write and pattern match.
 But that was truly the extent of it.
@@ -161,7 +164,7 @@ Once one has mastered a simple domain and put a working system in place,
 they may not realize the need to continue to monitor and adjust over time.
 
 With the introduction of alternate delivery services, desktop computers, email,
-and eventually intranets, the mailroom was slow to adopt any of the advances.
+and eventually intranets, the mailroom was slow to adopt many of the advances.
 For years, supplies were requested via a simple procedure.
 An employee would complete a supply requisition form and drop it in their outbound mail box.
 This was a pressure form that made two additional copies, allowing the original
@@ -186,7 +189,8 @@ outbound bin.
 The original would get filed.
 On the next run, the requestor would receive their supplies and two transposed
 paper copies of their email request, one with checkmarks and one without.
-They would, of course, throw away both copies.
+They would, of course, compare the paperwork against the email request and then
+throw away both paper copies.
 
 There was clearly a better way to do this work, but forms in triplicate had so
 long stood as the best practice, they persisted without question as the changing
@@ -458,17 +462,35 @@ nice to have to items that were absolutely critical.
 
 We decided to develop the application in small deliverable pieces, starting with
 basic functionality and adjusting as we went along.
+
 On one hand, this made sense to me, as it was pretty much how I wrote everything.
 When I was a kid working with friends on Asteroids in TR-BASIC, we started off with
 just a space ship that could spin around and shoot.
-It could not fly. The bullets did nothing.
+It could not fly.
+The bullets did nothing.
+But we'd play with that ship anyway.
+Trying every possible move we could think of.
+We learned that we needed to put a limit to the ships speed or we couldn't
+control it after a certain point.
+We learned that the speed of the bullet needed to be some constant plus the speed
+of the ship or a bullet could be overtaken by the ship that just fired it.
 We then added asteroids, which were squares that moved in straight lines.
 We then added the ability to detect when the ship was hit.
-And we kept building one small piece after another until we had a pretty good
+With asteroids in the way and bullets flying around, we made adjustments to the
+steering to allow for better control and we worked out how the ship behaved
+with and without thrusters turned on.
+We kept building one small piece after another until we had a pretty good
 version of the game, complete with flying ship, bullets, and breaking asteroids.
+
 On the other hand, part of a program is no good to anybody, right?
 It is an all or nothing proposition.
-I didn't give anyone the menu system until it was complete.
+What good is a half finished program?
+We're not kids writing silly video games.
+This is real software for real adults in a real business context.
+As another developer on the team used to say,
+"You don't want to show them the sausage until it is completely ready. Nobody
+wants to see how their sausage is made."
+I mean, I didn't give anyone the menu system until it was complete.
 How could we expect them to use a docketing system that didn't do everything they
 needed?
 
@@ -540,6 +562,7 @@ getting rid of it as we discovered new ways.
 Joe assured me, this was normal.
 "Just imagine if we'd written the whole thing first.", he said,
 "Imagine how much re-work we'd have then."
+
 Joe worked with me and showed me more flexible ways to write code.
 He showed me ways to test my code as I went along.
 We wrote tests that made sure key aspects of the system did what we wanted them to do.
@@ -551,7 +574,8 @@ required the same functionality.
 We broke functions into smaller functions, making them easier to read.
 "Code is for humans.", Joe would say to me.
 "The compiler writes the code for the machine."
-"Write your code so that future you doesn't hate present you when he has to fix it."
+"Write your code so that future version of you doesn't hate the present version
+of you when he has to fix it."
 "Don't be clever. Keep it simple."
 
 While a lot of this work seemed like a bit of overkill at first, I soon began
@@ -574,6 +598,11 @@ The docketing department didn't know what was possible.
 They didn't actually know what they wanted.
 We'd deliver a screen or a report or a complete workflow and after using it
 for while, they'd come up with a new idea or an alternate approach.
+As we built more features, the code changed. We'd pull functionality out into
+new files so it could be shared on multiple screens and reports.
+As those screens and reports changed, we'd restructure the code again.
+Sometimes breaking it out into additional separate pieces of code.
+Sometimes collapsing two or more separate pieces of code back into one chunk.
 Even after we were "done" with the system, we were still making adjustments.
 New legal requirements, one docketing department handling two locations, new
 ideas for reports, electronic records transfer to differing courts and filings
