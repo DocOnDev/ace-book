@@ -4,7 +4,9 @@ Connection is multi-faceted. It is about connection to the company's purpose,
 connection to the customer, personal connection to your fellow workers, and
 being connected through communication channels.
 
-## Aligned with the cause
+## Connection to the cause
+
+### Corporate mission statements
 It is commonplace for companies to have mission and vision statements these days.
 Once identified as a differentiator (Good to Great?), the mission statement is
 now pervasive and benign. It isn't that too many companies having a mission statement
@@ -28,6 +30,7 @@ Having been both a shareholder and employee of a number of companies, I can tell
 you shareholder value was way down on the list of things that inspired me.
 I was excited by the notion of "Making the World of Software Development
 a Better Place to Work" or "Empowering the Local Business".
+
 When I first arrived at Groupon, the phrase "Love Local" was part of the culture.
 From T-Shirts, to banners and coffee mugs, everyone knew why we were there
 - to empower the local business.
@@ -40,12 +43,13 @@ stepped in to the CEO role, the company lost almost all connection with the miss
 
 In the interest of return on shareholder value, the
 company expanded into different verticals trying to catch more lightening in a
-bottle and keep their inflated valuation high.
+bottle and keep their now inflated "growth company" valuation high.
 
 I remember when the travel division, known as "Getaways" was started.
 I asked how this fit in with local businesses.
 "Oh, well you see, we're pointing people to bed and breakfast companies.
-The customer may be traveling, but we're still helping them discover new local businesses.
+The customer may be traveling, but we're still helping them discover new local
+businesses.
 Businesses that are local to where they are at the moment."
 
 "Interesting twist.", I thought.
@@ -56,7 +60,7 @@ Groupon was faced with the arduous task of building an inventory of local
 hotels and bed & breakfast joints or they could partner with a provider that had
 hotels available in most major cities and have a complete vertical overnight.
 Despite a sales and customer service department adept at growing a business
-through direct sales and personal vendor service and despite deep cash
+through direct sales and high-touch vendor service and despite deep cash
 reserves, this time Groupon opted for the fast path to profitability and
 Getaways became the new model.
 Launch it fast, scale it faster, and push it to profitable or kill it.
@@ -67,11 +71,11 @@ provide a better return on shareholder value, the company became progressively
 fractured and internally competitive.
 Each new vertical knew that they were going to "save the company".
 Big egos and grand plans abound, internal competition was encouraged.
-Winners were lavished with praise and losers were exited.
+Winners were lavished with praise and losers were quietly and expeditiously exited.
 Heroes rose and fell in grand displays as the reality of the environment showed
 us time and again that success and skill are not necessarily correlated under
 these conditions.
-We bred bullies and then chastised them for not playing nice with others
+They bred bullies and then chastised them for not playing nice with others
 once they were no longer too valuable to mess with.
 
 Once united in a common cause, people were now members of "Getaways" or "Goods"
@@ -82,7 +86,7 @@ In an effort to show that the company had indeed not lost its way, the CEO
 eventually redefined "Local" to mean "anywhere a consumer is".
 He spoke of the "Shopping Mall in your pocket."
 If you are inspired by the notion of empowering local mom and pop businesses, you
-are likley repulsed by the notion of a shopping mall, in pocket or otherwise.
+are likely repulsed by the notion of a shopping mall, in pocket or otherwise.
 This new definition was an attempt to create a thin thread between the original
 inspiration and the new (aparent) mission to sell anything to anybody anywhere
 in pursuit of a buck.
@@ -98,7 +102,8 @@ Time will tell what happens to the once "fastest growing company in history."
 To be in business in order to make money is like to be alive in order to eat.
 You've got it backwards and the decisions you make as a result are more likely
 to be detrimental than beneficial.
-Greed leads to poor corporate health as surely as gluttony leads to poor personal health.
+Greed leads to poor corporate health as surely as gluttony leads to poor
+personal health.
 
 Another common issue with mission statements is that they are too broad.
 A mission statement that includes several objectives provides little clarity.
@@ -166,6 +171,64 @@ If you do care about the wellbeing of women everywhere and are interested in
 health and beauty, this may be a good company for you.
 And when faced with challenges or opportunities, this company is better able
 to make decisions that are consistent with this simple statement.
+
+### Why and The Golden Circle
+In Simon Sinek's 2009 book, "Start with Why", he explains that great companies
+start with "why".
+
+![The Golden Circle](images/golden-circle.jpg)
+To help clarify the idea, he introduces the notion of the "Golden Circle".
+This circle has three layers to it:
+
+*Why* - This is the core belief of the business. It's why the business exists.
+*How* - This is how the business fulfills that core belief.
+*What* - This is what the company does to fulfill that core belief.
+
+Sinek posits that most companies think backwards.
+Rather than starting at the center with "why" or purpose, they start at the
+outer-most ring, or "what" and then try to figure out "how".
+Many companies fail to take a serious look at why they even exist.
+Some actually do not know the answer to this question.
+
+"Does this matter?", you ask.
+
+According to the research detailed in Sinek's book, yes it does matter.
+According to Sinek, "People don't buy what you do. They buy why you do it."
+
+Let's look at two possible sales pitches for a home appliance company.
+The first starts with "what".
+
+> "We make amazing refrigerators. They're beautiful in design, energy efficient,
+ and easy to use. Want to buy one?"
+
+ Not bad. I like beautiful design and ease of use in all of my products.
+ And for a refrigerator, energy efficient is certainly an attractive feature.
+
+ But what if the same company created their pitch by starting with "why"?
+
+ > "In all that we do, we aim to exceed expectation and be boldly different.
+ We believe the status quo is not only boring, but dangerous.
+ Our products are beautiful in design, good for the planet, and easy to use.
+ Among them are some remarkable refrigerators. Want to buy one?"
+
+See how different that feels?
+Maybe it feels better. Maybe it feels worse.
+But the distinction is that it made you feel.
+The first pitch may have made you think, but it did not touch your primal self.
+
+Companies that start with why are able to attract customers and employees
+who share their fundamental beliefs.
+And equally important, are able to filter out customers and employees who
+are neutral or negative toward the company's "why".
+This creates stronger ties between the company and the people that choose to
+associate with it.
+The end result is greater sales, higher employee retention, and lower costs.
+
+This is the connection to the cause.
+A connection with why the company exists.
+A sense of alignment and belonging that resonates from the heart, not just the
+mind.
+
 
 
 ## Attentive to the customer
