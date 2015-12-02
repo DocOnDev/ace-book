@@ -175,13 +175,16 @@ to make decisions that are consistent with this simple statement.
 ### Why and The Golden Circle
 In Simon Sinek's 2009 book, "Start with Why", he explains that great companies
 start with "why".
-
-![The Golden Circle](images/golden-circle.jpg)
 To help clarify the idea, he introduces the notion of the "Golden Circle".
+
+![Golden Circle](images/golden-circle.jpg)
+
 This circle has three layers to it:
 
 *Why* - This is the core belief of the business. It's why the business exists.
+
 *How* - This is how the business fulfills that core belief.
+
 *What* - This is what the company does to fulfill that core belief.
 
 Sinek posits that most companies think backwards.
