@@ -1,6 +1,9 @@
 complexity.txt
 autonomy.txt
 connection.txt
+connection-customer.txt
+connection-worker.txt
+connection-communication.txt
 excellence.txt
 diversity.txt
 references.txt
