@@ -679,3 +679,143 @@ for control and predictability.
 
 
 ## Chaotic
+Several years later, the law firm where I got my start pushing a mail cart and
+working my way to junior software developer was a client of the software
+consultancy I founded. Several employees, myself included, spent a good deal of
+time in the legal offices as functioning members of their team. We wrote
+software, managed databases, and assisted with security and infrastructure
+concerns. The law firm had their own fulltime staff responsible for these
+functions. We were there to provide advice and help make things happen.
+
+It was a typical fall morning in Cleveland. Traffic was slightly heavier than
+normal and I arrived at the office around 8:30 am, 30 minutes later than normal.
+After hanging up my coat and getting some coffee, I settled into my chair to get
+caught up on email and prepare for the upcoming day.
+
+At about 8:45, somebody turned on a radio in the adjoining office.
+I could faintly hear the voice of Howard Stern. I smiled wryly and thought,
+"I don't know how they listen to that crap." Shock journalism is not my bag.
+
+A moment later, the volume was increased to an unreasonable level. There was no
+need for that. It was just plain inconsiderate of the ...
+
+"We are just now confirming... Oh my god! Just now confirming reports of a
+commercial airliner striking a building in downtown New York!"
+
+"You've got to be kidding me!", I thought, "What is this? Some war of the worlds
+stunt? This can't be real. They're messing with people."
+
+"We believe this is American Airlines flight 11. There are reports coming in
+that the flight lost communication only a short while ago and veered off flight
+plan. It looks like the plane accidentally struck the North Tower of the World
+Trade Center. Unbelievable. Unbelievable. God help those people in the tower
+and on the plane. Stay tuned as this story unfolds."
+
+"That's enough.", I thought, "They need to turn it down, if not off. Who in
+their right mind thinks this is at all funny?"
+
+I locked my computer, picked up my coffee, and headed next door to ask them to
+please lower the volume.
+
+Stepping out into the hallway, I saw people huddled around laptops and radios.
+Somebody was wheeling a tv cart into the office next to mine. A low buzz of
+whispers and crying filled the hallway. People were speculating if it was an
+accident or an intentional act.
+
+"Probably some nut with a manifesto like that Ted Kaczynski character.
+Only this one had a personal death wish. Odds are it is a solo hijacker.",
+I overheard someone say.
+
+Only moments later, at 9:03am, we learned it was not a solo hijacker.
+With the TV cart in place, the radio volume was turned down and replaced by
+live footage on the  screen. We stood there, dumbfounded and terrified, as
+another plane crashed into the twin towers. This time, coming from the South
+and hitting the southern tower.
+
+Whatever was happening, it was no accident.
+
+We huddled together for a few minutes. Everyone watching and everyone trying to
+make sense of what we were seeing. Reports of evacuation plans for the towers
+and updates on the combustion properties of jet fuel were the auditory backdrop
+for the visual horror show before us.
+
+People were calling home to check in with loved ones. People were calling
+friends and family in New York to get more details. And people were headed out.
+Kids were being sent home from school. Parents wanted to be with their families.
+
+We had maybe half a crew left, when another plane hit the Pentagon at 9:37am.
+We were contemplating whether or not we should send everyone home for the day.
+Traffic was jammed up throughout the city as people were trying to make their
+way out and back home all at once. For those of us with long commutes, staying
+in the office until the panic died down seemed to make sense. We were getting
+ready to send an email to all staff letting them know they could go home for the
+day, if they wanted to.
+
+Before we could send it out, we got a call from the office manager. "The
+building is closing in 15 minutes. You need to get everyone out and shut down
+the systems. We're on Federal lockdown until further notice."
+
+"Wh.. what do you mean?", Geoff, the VP of IT Operations had picked up the call
+and placed it on speaker phone for the room to hear.
+"Federal lockdown? Everyone out? Shut down the systems? Our Disaster Recovery
+plans don't cover this. There's no protocol...."
+
+"Yes. Sure. Protocol. I don't have time for this. I have a lot of calls to make.
+The building is not only a historical landmark, it is a federal reserve
+building. They hit the Pentagon for God's sake! The Pentagon. We can't have
+people in the building. Who knows what other targets they have lined up.
+Who knows how long this will go on."
+
+We had 15 minutes to get out. Security was already sweeping the building and
+forcing people to leave. We had to power down all the systems, pull all the
+drives, pull a complete set of tapes, and exit the building. All in 15 minutes
+or less. And we had less then half of our crew as well as no procedure for
+this kind of thing.
+
+"All right people!", I heard from the back of the room, "You heard him. Let's
+move. Everyone grab only critical personal items like your drivers license or
+car keys. Everything else can stay. Dump out any bags you have or any boxes in
+your office and bring them immediately to the computer room. Let's go, go, go!"
+
+It was David, a mid-level technician from the infrastructure team. David was
+in the reserves and was a volunteer fire fighter. Out of nowhere, and with no
+positional authority, he'd started barking orders like he was in charge.
+
+"David!", Geoff said sternly with a slight scowl on his face.
+"What?", David asked, sounding calmly confident. Composed. Ready.
+Geoff's face softened, "Maybe the file room would have empty boxes?"
+"Good idea.", David replied, "Send two people to the file room. Everybody else
+get to the computer room right away. Bring something, anything, you can carry
+drives in."
+
+Normally a quiet guy who was perfectly fine following and enforcing policy,
+David was suddenly a powerful and charismatic force.
+Without another thought, we all started moving, doing exactly as we were told.
+
+In under 15 minutes, we'd dismounted all the drives in the server room, labeled
+each and recorded with whom it was leaving, making sure to split up the drives
+so that even if some of us lost the equipment or didn't return, we had the
+best chance of the raid configuration fully recovering all the data. We powered
+down all systems.
+
+We did it all under David's able command.
+There was no protocol.
+There were dozens of options at each turn.
+David surveyed the scene and occassionally sought input from others.
+But it was his pronounced decisiveness and ability to issue a command with
+conviction even when he was uncertain that allowed David to lead us through
+the exit without issue.
+
+This is the nature of chaotic work.
+There is no plan or protocol.
+We've likely never seen a situation like this before and we hope to never
+see one like it again.
+Finding the perfect answer is pointless.
+Leadership is not about finding patterns or maximizing functional efficiency.
+Leadership's only objective is to get out of chaos.
+Leaders must act first to establish some sense of order, figure out the next
+thing that needs to be done, and respond accordingly.
+Leadership here is quite literally command and control.
+The leader broadcasts to the rest of the group.
+There is little time for input or debate.
+Action is of the essence.
