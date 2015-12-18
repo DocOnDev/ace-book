@@ -1,4 +1,8 @@
 complexity.txt
+complexity-simple.txt
+complexity-compound.txt
+complexity-emergent.txt
+complexity-chaotic.txt
 autonomy.txt
 connection.txt
 connection-customer.txt
