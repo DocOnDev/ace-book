@@ -128,9 +128,16 @@ You need to be able to choose from a number of options.
 And there are often equally correct paths to the solution.
 So while there are good practices, there are not necessarily best practices.
 Workers need to be able to solve problems on their own.
+Management in a compound domain is about collaboration.
 While a manager can set procedures for how to execute the discrete parts, a
 manager must rely on the knowledge of the worker to analyze the situation.
 It is valuable here for workers to understand as much about the system as they can.
+Managers provide advice and mentoring.
+They participate in discussions and help to make decisions, but must resist
+the temptation to be the authoritative decision maker.
+Authoritarianism results in subordination of team members, reinforcing the
+need for the leader to make decisions, thereby creating a potentially
+disastrous bottleneck.
 
 ### Summary
 

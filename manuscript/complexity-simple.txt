@@ -197,7 +197,8 @@ easily discerned by most everyone.
 There is a best way to perform each task;
 a best practice, which is either self-evident or easily conveyed with minimal training.
 
-Management is top-down and this hierarchy helps to ensure that each individual is
+Management in a simple context is about coordination.
+It is top-down and this hierarchy helps to ensure that each individual is
 being fully, optimally utilized in a system as predictable and efficient as possible.
 Workers spend their time sensing, categorizing, and responding by executing the
 pre-determined procedures.
