@@ -1,5 +1,39 @@
-# Work Types
+# Complexity and Management
 
-Need a basic description of work types here.
+In 1965, Gordon Moore, co-founder of Intel made what at the time may have
+seemed a simple observation. He noted that the number of transistors per square
+inch on integrated circuits had doubled every year since the integrated circuit
+was first demonstrated by Jack Kilby of Texas Instruments in 1958.
+Moore predicted that this rate of growth would continue for the
+foreseeable future. A decade later, in 1975, he revised the forecast to indicate
+a doubling every two years. This observation and prediction became commonly
+known in the electronics and computer industry as "Moore's Law". Not an actual
+physical or natural law, the name stuck none the less.
 
-Perhaps a reference to Cynefin.
+Moore's prediction held true until around 2012 when the rate fell from the
+steady pace of the prior 37 years. In 2015, Brian Krzanich, CEO of Intel,
+confirmed that the pace has slowed to a doubling every two and a half years.
+
+The impact of this has been tremendous. Computing power has essentially increased
+exponentially for the better of 5 decades while the relative cost has decreased
+at the same fundamental rate. With power and cost as two key drivers of
+technological advancement, these trends in increased power and decreased cost have not
+only contributed to the explosive growth of existing technologies, but have
+enabled the launch of entirely new industries as well.
+
+Through a series of advancements, computer chips have grown more powerful and
+smaller at the same time, allowing for more computing power in smaller and
+smaller components.
+Advancements in integration and microelectromechanical
+systems have resulted in accelerometers and gyroscopes in phones and even watches.
+We wear devices on our wrists that measure our steps, altitude changes, and
+sleep patterns.
+These devices have more computing power than the systems that sent the first
+men to the moon.
+And they fit on our wrists!
+Science fiction is becoming science fact right before our eyes.
+
+Perhaps less immediately obvious yet more socially and economically significant
+is the impact these advances have had on our work lives.
+
+ 
