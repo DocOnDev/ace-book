@@ -5,6 +5,7 @@ complexity-emergent.txt
 complexity-chaotic.txt
 autonomy.txt
 connection.txt
+connection-cause.txt
 connection-customer.txt
 connection-worker.txt
 connection-communication.txt
