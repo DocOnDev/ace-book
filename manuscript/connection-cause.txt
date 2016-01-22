@@ -1,0 +1,261 @@
+## Connection to the cause
+
+### Corporate mission statements
+It is commonplace for companies to have mission and vision statements these days.
+Once identified as a differentiator (Good to Great?), the mission statement is
+now pervasive and benign. It isn't that too many companies having a mission statement
+has stripped such statements of value. It is simply that there are so many valueless
+mission statements, most employees scoff at their existence.
+
+With Fortune 500 companies sporting missions statements such as,
+"Profitable growth through superior customer service, innovation, quality and
+commitment." to, "The purpose of [our company] is to earn money for its
+shareholders and increase the value of their investment. We will do that
+through growing the company, controlling assets and properly structuring the
+balance sheet, thereby increasing EPS, cash flow, and return on invested capital."
+
+These mission statements don't tell us a thing about the company, why they
+exist, or what services or goods they actually offer.
+With a focus on profit, growth, or return on shareholder value, these companies
+seem to think they exist to make money.
+Customer service and quality of product are a means to an end; sustainable profits
+in service of shareholders.
+Having been both a shareholder and employee of a number of companies, I can tell
+you shareholder value was way down on the list of things that inspired me.
+I was excited by the notion of "Making the World of Software Development
+a Better Place to Work" or "Empowering the Local Business".
+
+When I first arrived at Groupon, the phrase "Love Local" was part of the culture.
+From T-Shirts, to banners and coffee mugs, everyone knew why we were there
+- to empower the local business.
+Mom and Pop businesses.
+Companies that are founded by your neighbors, employ your neighbors, and care
+about your local community because they are genuinely members of said community.
+
+When the founding CEO was asked to step down and one of the primary investors
+stepped in to the CEO role, the company lost almost all connection with the mission.
+
+In the interest of return on shareholder value, the
+company expanded into different verticals trying to catch more lightening in a
+bottle and keep their now inflated "growth company" valuation high.
+
+I remember when the travel division, known as "Getaways" was started.
+I asked how this fit in with local businesses.
+"Oh, well you see, we're pointing people to bed and breakfast companies.
+The customer may be traveling, but we're still helping them discover new local
+businesses.
+Businesses that are local to where they are at the moment."
+
+"Interesting twist.", I thought.
+
+But that's not actually how it played out.
+The Getaways site launched with extremely limited options.
+Groupon was faced with the arduous task of building an inventory of local
+hotels and bed & breakfast joints or they could partner with a provider that had
+hotels available in most major cities and have a complete vertical overnight.
+Despite a sales and customer service department adept at growing a business
+through direct sales and high-touch vendor service and despite deep cash
+reserves, this time Groupon opted for the fast path to profitability and
+Getaways became the new model.
+Launch it fast, scale it faster, and push it to profitable or kill it.
+First bolster the top line, then squeeze to get the bottom line.
+
+Repeatedly rushing into and quickly abandoning verticals in an effort to
+provide a better return on shareholder value, the company became progressively
+fractured and internally competitive.
+Each new vertical knew that they were going to "save the company".
+Big egos and grand plans abound, internal competition was encouraged.
+Winners were lavished with praise and losers were quietly and expeditiously exited.
+Heroes rose and fell in grand displays as the reality of the environment showed
+us time and again that success and skill are not necessarily correlated under
+these conditions.
+They bred bullies and then chastised them for not playing nice with others
+once they were no longer too valuable to mess with.
+
+Once united in a common cause, people were now members of "Getaways" or "Goods"
+or "Payments" or "Live" or "Local" or any of a number of fleeting and
+flailing efforts.
+
+In an effort to show that the company had indeed not lost its way, the CEO
+eventually redefined "Local" to mean "anywhere a consumer is".
+He spoke of the "Shopping Mall in your pocket."
+If you are inspired by the notion of empowering local mom and pop businesses, you
+are likely repulsed by the notion of a shopping mall, in pocket or otherwise.
+This new definition was an attempt to create a thin thread between the original
+inspiration and the new mission to sell anything to anybody anywhere through the
+mall in their pants.
+
+Those who were inspired by the original mission were not fooled.
+Those who were more aligned to their vertical were not inspired.
+A couple of years focused on money over mission and Groupon leadership drove the
+company into the ground.
+
+As of this writing, the second CEO has stepped down and there is a new CEO in
+his place.
+Time will tell what happens to the once "fastest growing company in history."
+
+To be in business in order to make money is like to be alive in order to eat.
+You've got it backwards and the decisions you make as a result are more likely
+to be detrimental than beneficial.
+Greed leads to poor corporate health as surely as gluttony leads to poor
+personal health.
+
+Another common issue with mission statements is that they are too broad.
+A mission statement that includes several objectives provides little clarity.
+Let's take a look at the following Fortune 500 company mission statement:
+
+"We will build a unique portfolio of beauty and related brands, striving to surpass our
+competitors in quality, innovation and value, and elevating our image to become the
+beauty company most women turn to worldwide. We will become the destination store for
+women, offering the convenience of multiple brands and channels, and providing a
+personal high touch shopping experience that helps create lifelong customer relationships.
+We will expand our presence in direct selling and lead the reinvention of the channel,
+offering an entrepreneurial opportunity that delivers superior earnings, recognition,
+service and support, making it easy and rewarding to be affiliated with [us] and elevating
+the image of our industry. We will be known for our leadership edge, through our passion
+for high standards, our respect for diversity and our commitment to create exceptional
+opportunities for professional growth so that associates can fulfill their highest potential.
+We will be a committed global champion for the health and well-being of women through
+philanthropic efforts that eliminate breast cancer from the face of the earth,
+and that empower women to achieve economic independence. We will deliver superior
+returns to our shareholders by tirelessly pursuing new growth opportunities while
+continually improving our profitability, a socially responsible, ethical company
+that is watched and emulated as a model of success."
+
+Let's break this one down.
+
+This company is going to be the leading women's beauty company worldwide,
+be a destination store with a high-touch experience,
+reinvent direct selling,
+offer superior entrepreneurial opportunities,
+empower women to economic independence,
+elevate the image of their entire industry,
+be known for leadership,
+eliminate breast cancer,
+and deliver superior returns to shareholders.
+
+This is an inspiring read.
+I imagine many who read this would say,
+"These are wonderful, meaningful and inspiring goals. I'd like to work for
+this company."
+
+The challenge is the breadth of the statement.
+If you work for this company and are in the third quarter of a down-turn,
+do you cut back on contributions to philanthropic organizations providing
+leading breast cancer research, do you adjust compensation structures for
+your independent (entrepreneurial) direct sellers, or do you provide
+shareholders with a lower return or even a loss?
+
+And if there is a rise in demand for beauty products for men, do you enter that
+market or not?
+Entering the men's market allows for growth and better returns which
+also allows for larger philanthropic contributions.
+It may elevate the image of the industry, depending on how that's defined.
+It may show great leadership.
+But it is inconsistent with the goal to be the leading women's beauty company.
+
+In my opinion, a short and simple statement such as,
+"To improve the wellbeing of women everywhere through economic opportunities
+with a focus on health and beauty.",
+is a significant improvement over the existing 1500+ word statement.
+This short, simple statement provides clarity and flexibility.
+If you don't care about the wellbeing of women everywhere, don't join this
+company.
+If you are not interested in health and beauty, don't join this company.
+If you do care about the wellbeing of women everywhere and are interested in
+health and beauty, this may be a good company for you.
+And when faced with challenges or opportunities, this company is better able
+to make decisions that are consistent with this simple statement.
+
+### Why and The Golden Circle
+In Simon Sinek's 2009 book, "Start with Why", he explains that great companies
+start with "why".
+To help clarify the idea, he introduces the notion of the "Golden Circle".
+
+![Golden Circle](images/golden-circle.jpg)
+
+This circle has three layers to it:
+
+*Why* - This is the core belief of the business. It's why the business exists.
+
+*How* - This is how the business fulfills that core belief.
+
+*What* - This is what the company does to fulfill that core belief.
+
+Sinek posits that most companies think backwards.
+Rather than starting at the center with "why" or purpose, they start at the
+outer-most ring, or "what" and then try to figure out "how".
+Many companies fail to take a serious look at why they even exist.
+Some actually do not know the answer to this question.
+
+"Does this matter?", you ask.
+
+According to the research detailed in Sinek's book, yes it does matter.
+According to Sinek, "People don't buy what you do. They buy why you do it."
+
+Let's look at two possible sales pitches for a home appliance company.
+The first starts with "what".
+
+> "We make amazing refrigerators. They're beautiful in design, energy efficient,
+ and easy to use. Want to buy one?"
+
+ Not bad. I like beautiful design and ease of use in many of the products I buy.
+ And for a refrigerator, energy efficient is certainly an attractive feature.
+
+ But what if the same company created their pitch by starting with "why"?
+
+ > "In all that we do, we aim to exceed expectation and be boldly different.
+ We believe the status quo is not only boring, but dangerous.
+ Our products are beautiful in design, good for the planet, and easy to use.
+ Among them are some remarkable refrigerators. Want to buy one?"
+
+See how different that feels?
+Maybe it feels better. Maybe it feels worse.
+But the distinction is that it made you feel.
+The first pitch may have made you think, but it did not touch your primal self.
+
+Perhaps two examples from real companies will help.
+Teamwork.com and Asana are two companies competing in the same fundamental space
+of project management software.
+There are a number of companies in this space, but we've chosen these two
+because they both have a mission statement publicly accessible on their web site.
+Many of the other companies in this market, such as Microsoft, Pivotal Labs,
+and Atlassian are broader technology companies that happen to have a project
+management tool in their portfolio.
+For those that do make their mission statement publicly available, they tend to
+be more general, applying to the company's overall business as opposed to a
+specific division.
+
+Teamwork.com's mission is
+"To make the world's most easy-to-use, fastest and best Project Management
+System."
+
+Asana's mission, in contrast, is
+"To help humanity thrive by enabling all teams to work together effortlessly."
+
+Teamwork.com's mission is focused on what; making project management software.
+Asana's mission is focused on why; helping humanity thrive through teamwork.
+
+And while, admittedly, Teamwork.com is going to have some initial appeal for
+developers who are clearly first class citizens of the company, building a
+Project Management System doesn't speak to the heart for most of us.
+It speaks to purpose or utility. It satisfies a need.
+
+At Asana, on the other hand, you're helping humanity thrive by
+writing software that fosters collaboration across multiple teams and
+initiatives. This speaks to the heart. This aspires to solve a much larger
+problem.
+
+
+Companies that start with why are able to attract customers and employees
+who share their fundamental beliefs.
+And equally important, are able to filter out customers and employees who
+are neutral or negative toward the company's "why".
+This creates stronger ties between the company and the people that choose to
+associate with it.
+The end result is greater sales, higher employee retention, and lower costs.
+
+This is the connection to the cause.
+A connection with why the company exists.
+A sense of alignment and belonging that resonates from the heart, not just the
+mind.
