@@ -61,3 +61,20 @@ This opened up programming to an entirely new audience.
 UNIX, which is to this day, the operating system that serves as the basis of
 most modern computing systems was developed by Kenneth Thompson and Dennis Ritchie
 in 1969.
+
+In the 1970s, microprocessors grew increasingly available and powerful, giving rise
+to hobbyists creating their own personal computers.
+In January of 1975, Popular Electronics Magazine featured the MITS Altair,
+the first commercially successful microprocessor kit, on their front cover.
+By 1977, pre-assembled systems such as the Apple II and Tandy's TRS-80 were
+made available and home computers became a burgeoning market.
+
+Then in August of 1981, IBM Introduced the IBM-PC and the personal computer
+quickly became a commodity item as companies started purchasing them and linking
+them together into Local Area Networks (LANs).
+Local Area Networks first allowed workgroups to collaborate more closely by
+sharing files and conversing through text-based software.
+In short order, LANs were able to handle larger and larger groups and we were
+able to link LANs together into broader networks.
+Now entire enterprises were connected, sharing files, using centralized applications,
+and communicating via email, chat applications, and other collaboration tools.
