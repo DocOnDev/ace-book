@@ -36,4 +36,28 @@ Science fiction is becoming science fact right before our eyes.
 Perhaps less immediately obvious yet more socially and economically significant
 is the impact these advances have had on our work lives.
 
- 
+Throughout the 1950s and 60s, advances in technology allowed pre-integrated
+circuit computers to both shrink in size and grow in capability.
+
+By the late 60s, computers were becoming more commonplace in corporations and
+IBM was selling more than 1000 System/360 systems per month.
+Use of computers expanded beyond accounting and forecasting into manufacturing
+and services for customers.
+Automated Teller Machines, Airline Reservation Systems, Robotic Arms for
+assembly in manufacturing, and computer networking systems such as ARPAnet,
+which allowed for connection between different makes and models of computers
+all came on-ine in the 1960s.
+
+The 1960s also brought us BASIC and UNIX.
+BASIC (Beginner's All-purpose Symbolic Instruction Code) is a computer language
+developed by Thomas Kurtz and John Kemeny of Dartmouth College, BASIC was an
+easy-to-learn programming language, making it ideal for students who had no
+prior programming experience.
+BASIC quickly spread to schools all over the world and by the 1980s, most
+every personal computer was shipped with a version of BASIC embedded in
+the system.
+This opened up programming to an entirely new audience.
+
+UNIX, which is to this day, the operating system that serves as the basis of
+most modern computing systems was developed by Kenneth Thompson and Dennis Ritchie
+in 1969.

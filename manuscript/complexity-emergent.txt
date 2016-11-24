@@ -123,7 +123,7 @@ to think about it differently. And so will we. Trust me."
 
 "I want you to think about how you actually wrote and delivered the menus.",
 Joe said.
-"You started with the basics. You had the abiity to navigate a single menu
+"You started with the basics. You had the ability to navigate a single menu
 before you introduced sub-menus. You had sub-menus before you added the ability
 to edit menus. You worked on it in pieces all along, right?"
 
