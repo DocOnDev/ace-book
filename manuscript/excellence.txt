@@ -4,3 +4,14 @@ Excellence is about both personal mastery and the quality of the product we
 produce.
 Teams and individuals must be adequately challenged and be able to see true
 progress toward a goal they aspire to.
+
+- Hawthorn Effect
+- Goodhart's Law
+- Friedman's Thermostat (?)
+- Picking effective metrics
+  - Code Quality
+  - Lead Time / Cycle Time
+  - CSAT
+  - AB Testing
+  - Multi-Variate Testing
+- Healthy use of the data

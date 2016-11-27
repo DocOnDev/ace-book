@@ -16,8 +16,27 @@ Helpdesk Manager - Jonathan Finley
 Network Manager - Charlie Robe (CRob)
 IT Worker - Chico Demi
 
+intro-marcus-vent.txt
+new-job.txt
+teams-in-trouble.txt
+class-reunion.txt
+intro-joseph-daskal.txt
+intro-aced.txt
+assessment.txt
+where-to-begin.txt
+conways-law.txt
 
-Is this a story of a transformation?
+
+systems-thinking.txt
+measurements.txt
+measurements-hawthorn-effect.txt
+measurements-goodharts-law.txt
+measurements-flow.txt
+measurements-quality.txt
+team-improvement.txt
+
+# Story
+## Is this a story of a transformation?
 - Company is leader in their market (what market?)
   - Technology needs to be a strategic advantage
   - Something people can relate to easily
@@ -26,7 +45,14 @@ Is this a story of a transformation?
   - Given three teams that are in trouble
     - Six months and we're blowing these teams up
   - Transformation of Teams
- 
+    - Measuring Cycle and Lead Time
+    - Cumulative Flow Diagram
+    - Code Quality
+    - Limiting WIP
+    - Working Together
+
+
+
 
 ## Things to share
 - Culture ACED
@@ -41,6 +67,10 @@ Is this a story of a transformation?
     - Collaboration Contracts
     - Parallel Thinking
   - Leadership Styles
+    - Command
+    - Coordinate
+    - Collaboration
+    - Facilitate (Capacitate?)
   - Organizational Structures
     - Teal
     - Team of Teams

@@ -78,3 +78,21 @@ In short order, LANs were able to handle larger and larger groups and we were
 able to link LANs together into broader networks.
 Now entire enterprises were connected, sharing files, using centralized applications,
 and communicating via email, chat applications, and other collaboration tools.
+
+As computers became more powerful, more useful, and more ubiquitous, processes
+that once required manual labor were made easier of not eliminated entirely by automation.
+From robotic arms precisely placing parts on assembly lines to automated accounting
+packages to analysis and interpretation of large sets of data, jobs were being
+augmented if not supplanted through automation.
+Slowly but steadily, the demand for creative knowledge work was on the rise as
+the desire for automation created such jobs while the realization of automation
+reduced the availability of many manual labor jobs.
+
+The Internet, an evolution of ARPAnet, had been around since the 1970s,
+but had been adopted primarily by the educational and scientific communities.
+In XXXX the first .com domain was registered to XXXXXX.
+In the following years, interest slowly grew.
+Then, in 199X Tim Berners Lee and his team of XXXXXXX decided to combine
+XXXXXXX and YYYYY, allowing for a richer Internet experience with
+colored text, multiple fonts, and images.
+The World Wide Web (WWW) was born.
