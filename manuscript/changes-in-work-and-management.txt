@@ -1,0 +1,66 @@
+# The Accelerating Rate of Change
+
+Management as a discipline is a relatively nascent concept.
+Genetically, man can be traced to roughly six (6) million years ago when the ape
+lineage divided into paths that would eventually lead separately to man and
+to chimpanzees.
+Anatomically, modern man is about 200,000 years old, beginning when the
+subspecies of Homo sapiens evolved from archaic humans.
+Behaviorally, modern man is closer to 40,000 years old.
+Somewhere between 50,000 and 40,000 years ago, Homeo sapiens started to
+exhibit behaviors of cognition, including abstract thinking, use of symbols,
+and social learning.
+30,000 years ago, humans were hunter gatherers with relatively crude instruments.
+20,000 years ago, we created clay pottery and began use of raw materials.
+10,000 years ago, we made significant advancements in that we started farming and
+domesticated some animals to our purpose.
+8,000 years ago, we first brewed beer.
+6,500 years ago, we invented the plow.
+6,000 years ago, we invented the wheel.
+5,400 years ago, we began writing.
+5,200 years ago, we added sails to boats.
+5,000 years ago, we started mass producing and using bricks.
+Palaces and cities were easier to build.
+4,700 years ago, the first pyramids were built.
+4,500 years ago, the first written laws were established.
+2,800 years ago, the first olympics take place.
+2,200 years ago, the great wall of china is constructed.
+1,550 years ago, London is established.
+
+Fast forward 39,900 years from the advent of behavioral modernity, and man
+conceives of the notion of "management" as a role and discipline.
+
+In the late 1800s
+
+In 1965, Gordon Moore, co-founder of Intel made what at the time may have
+seemed a simple observation. He noted that the number of transistors per square
+inch on integrated circuits had doubled every year since the integrated circuit
+was first demonstrated by Jack Kilby of Texas Instruments in 1958.
+Moore predicted that this rate of growth would continue for the
+foreseeable future. A decade later, in 1975, he revised the forecast to indicate
+a doubling every two years. This observation and prediction became commonly
+known in the electronics and computer industry as "Moore's Law". Not an actual
+physical or natural law, the name stuck none the less.
+
+Moore's prediction held true until around 2012 when the rate fell from the
+steady pace of the prior 37 years. In 2015, Brian Krzanich, CEO of Intel,
+confirmed that the pace has slowed to a doubling every two and a half years.
+
+The impact of this has been tremendous. Computing power has essentially increased
+exponentially for the better of 5 decades while the relative cost has decreased
+at the same fundamental rate. With power and cost as two key drivers of
+technological advancement, these trends in increased power and decreased cost have not
+only contributed to the explosive growth of existing technologies, but have
+enabled the launch of entirely new industries as well.
+
+Through a series of advancements, computer chips have grown more powerful and
+smaller at the same time, allowing for more computing power in smaller and
+smaller components.
+Advancements in integration and microelectromechanical
+systems have resulted in accelerometers and gyroscopes in phones and even watches.
+We wear devices on our wrists that measure our steps, altitude changes, and
+sleep patterns.
+These devices have more computing power than the systems that sent the first
+men to the moon.
+And they fit on our wrists!
+Science fiction is becoming science fact right before our eyes.
