@@ -1,0 +1,25 @@
+# The Torment of Velocity
+
+Velocity is perhaps the most often used metric in all of agility.
+Velocity as a concept is derived from a number of different ideas, most of which
+stem from Extreme Programming (XP). Around the year 2000, early XP concepts of
+"individual velocity", "load factors", and "ideal days" evolved into
+"Story Points" and "Team Velocity" as practitioners learned what worked well and what did not.
+In 2002, Scrum adopted the concept of Velocity and made it a part of their certification
+programs. Unfortunately, Scrum failed to early adopt many of the other XP engineering
+practices and perspectives that actually supported the concept of Velocity and
+kept it in appropriate balance. This lead to the proliferation of a metric
+ill-suited to the environments in which it was being applied.
+
+Over the course of the 15 ensuing years, practitioners all over the world continued
+to iterate on existing practices and experiment with new concepts, many of which
+were derived from other disciplines. We will refer to these folks as experimenters.
+They focus on experimentation and learning as a part of an empirical and sometimes scientific process.
+
+During that same 15 year timeframe, Scrum Certification
+became a booming business and Velocity was adopted as a means of prediction,
+commitment, and accountability for teams new to agility who found comfort in the
+idea that work can be predicted and committed to and that teams and individuals should
+be held accountable for their inability to execute against these predictions and commitments.
+We will refer to these folks as implementers.
+They focus on implementing process and procedures well in an effort to achieve efficient and accurate outcomes.
