@@ -1,3 +1,4 @@
+
 # Management is both nascent and outdated
 
 Management as a discipline is simultaneously a nascent concept and grossly outdated.
@@ -22,8 +23,8 @@ starting point for humans.
 In the next 10,000 years, humans made significant advancements in that we started
 farming and domesticated some animals to our purpose.
 
-* Look at history of slave labor and use of humans as labor force on large scale *
-
+*** Look at history of slave labor and use of humans as labor force on large scale *
+**
 - 6,500 years ago, we invented the plow.
 - 6,000 years ago, we invented the wheel.
 - 5,400 years ago, we began writing.
@@ -39,7 +40,9 @@ farming and domesticated some animals to our purpose.
 In the following 7,500 years, we created the plow, the wheel and written language.
 We put sails on boats, began mass production of bricks, built the pyramids
 and the great wall, established cities and municipal concepts, and documented the first written laws.
-*Scientific breakthroughs?*
+
+***Scientific breakthroughs?***
+
 Over the course of the next 2350 years, leading up to approximately 150 years ago,
 dynasties
 
@@ -53,7 +56,7 @@ There we no managers of clay pottery, no managers of farms, and no managers to
 run the early mass production of bricks. Nobody held the title of manager
 while people built the great wall or the pyramids or our early cities.
 
-*Bureaucracy?*
+**Bureaucracy?**
 
 Between 1890 and 1920, the position of manager and the general responsibilities of the role
 emerged from a new need brought about, in great part, by mass production and the
@@ -63,14 +66,16 @@ traverse the globe. With train systems, shipping yards, and new means of powerin
 vessels be they on land or in water, goods were able to be transported anywhere in the world.
 
 During this 30 year period from 1890 to 1920, men like Frederick Winslow Taylor
-and *XXXXXX*
+and ***XXXXXX***
 studied how work was accomplished within shipping yards and on factory floors.
 They looked for ways to improve efficiencies in order to keep up with expanding
 demand while simultaneously containing costs.
 The practice of studying, measuring, and monitoring work became broadly known as
 Scientific Management.
 Through Scientific Management, Taylor and others were able to show significant
-improvements. *Examples*
+improvements.
+
+***Examples***
 
 Then, in 1921, Harvard Business School launched the first Masters in Business Administration
 program, based heavily on the theories and practices found in Scientific Management.
@@ -110,11 +115,12 @@ This work was amenable to the Scientific Management approach of the times.
 The affect of one's efforts was predictable and the efforts themselves were
 measurable and could be optimized.
 
-Advance to Deming / Ohno
+***Advance to Deming / Ohno***
+
 As manufacturing became more complicated; multiple components, often hundreds
 for a single product, and customization
 Prediction became less accurate - variability in the system
-Old measures were no longer appropriate (?)
+Old measures were no longer appropriate ***(?)***
 Holding employees accountable to measures outside of their control did not improve
 quality
 Providing employees a means of inspecting, reporting, and ameliorating errors via
@@ -122,6 +128,9 @@ mechanisms like andon cords
 The need for specialization increased as employees and their analytic capability
 became a more critical component of the process
 
+***Tie these timelines together. Want to have advances in management lead to 1965.***
+
+### Enter Moore's Law
 
 In 1965, Gordon Moore, co-founder of Intel made what at the time may have
 seemed a simple observation. He noted that the number of transistors per square
