@@ -28,7 +28,10 @@ starting point for humans.
 In the next 10,000 years, humans made significant advancements in that we started
 farming and domesticated some animals to our purpose.
 
-*** TODO: Look at history of slave labor and use of humans as labor force on large scale ***
+With the invention of agriculture, slavery fast followed.
+Slavery was perhaps the first instance of larger-scale organized labor, but
+unsurprisingly, little existed that we'd recognize as management practice.
+
 
 - 6,500 years ago, we invented the plow.
 - 6,000 years ago, we invented the wheel.
@@ -60,6 +63,16 @@ started to appear in job listings. The notion was all but non-existent prior to 
 There we no managers of clay pottery, no managers of farms, and no managers to
 run the early mass production of bricks. Nobody held the title of manager
 while people built the great wall or the pyramids or our early cities.
+
+But by the early 1900’s, the term “management” was in wide use.
+Early Management Theory was based, in great part, on the work of Adam Smith who
+had the insight that division of labor would increase productivity.
+Building on Smith's notions, others such as Frederick Winslow Taylor,
+Frank and Lillian Galbreth, Herbert R. Townes, and Henry L. Gantt further
+developed theories that emphasized efficiency, lack of variation, consistency
+of production, and predictability.
+The goal was to optimize the outputs that could be generated from a specific set of inputs.
+
 
 ***TODO: Look at history of Bureaucracy?***
 
