@@ -8,13 +8,27 @@ progress toward a goal they aspire to.
 
 It is not only important that people are connected to a mission or purpose, but
 that they can see steady progress in their endeavor to achieve the desired end.
+
+"Knowledge worker" is a term coined in the late 1950s by American management consultant,
+educator, and author, Peter Drucker. Drucker considered knowledge work and
+knowledge-worker productivity to be the next frontier of management.
+While there is no formal definition of the term, knowledge workers are generally
+considered people whose work requires specific knowledge and problem solving
+abilities, such as physicians, scientists, software engineers, and architects.
+
 For knowledge workers, nothing is more important than making visible progress in meaningful work.
 Studies to evaluate the makings of a "good" work day versus a "bad" work day found
 that people feeling motivated and happy at the end of a given workday were highly
 likely to have made some progress that same day. Conversely, if the person
 drags out of the office disengaged and joyless, a setback is most likely to blame.
 
-As it runs out, progress alone is not enough to maintain engagement.
+While positive progress improves engagement and satisfaction, setbacks tend to
+be far more powerful. A small step forward does not boost engagement to the same
+degree that a small setback decreases engagement. Large wins have a punctuated
+impact on engagement, but the boost does not last long. As a result, we know that
+small frequent positive progress is essential to long-term engagement.
+
+But positive progress alone is still not enough to maintain engagement.
 The work has to be meaningful.
 Meaningful not necessarily to the world at large, but meaningful to the individual
 performing the work itself.
@@ -26,13 +40,6 @@ and increasing profits for one's employer.
 Simple or grand, goals that are meaningful to the worker where one can see how
 their efforts contribute to progress toward those goals can invigorate
 inner work life and engagement.
-
-Knowledge worker is term coined in the late 1950s by American management consultant,
-educator, and author, Peter Drucker. Drucker considered knowledge work and
-knowledge-worker productivity to be the next frontier of management.
-While there is no formal definition of the term, Knowledge workers are generally
-considered people whose work requires specific knowledge and problem solving
-abilities, such as physicians, scientists, software engineers, and architects.
 
 Most modern work is knowledge work.
 Knowledge work need not be bolstered in any way to help workers find meaning.
@@ -60,6 +67,19 @@ formal schooling.
 The number one thing they have to contribute to work and to the cause is ideas.
 Dismiss or ignore the key thing they have to contribute, and their motivation
 is readily lost.
+
+Unfortunately, in many organizations, new employee ideas are given little consideration.
+It is not until the employee has proven they can contribute in small ways the
+team and managers agree with that they are then allowed to contribute on a larger scale.
+In other words, it is not until the employee has proven their similarity to
+the rest of the group that the team considers them credible.
+It is not until we know they think the same as us that we put them into a work
+situation that requires diversity of thought.
+We'll cover more on diversity of thought in later chapters.
+The material aspect of this dialogue, for now, is that in giving lesser consideration
+to those whose perspectives differ form general consensus, the organization is
+not only losing out on an opportunity to truly innovate, but disenfranchising
+and demotivating those they've identified as most worthy of employment.
 
 ### Collective ownership is still ownership
 Write about how complex problems require small diverse groups to solve them, but
