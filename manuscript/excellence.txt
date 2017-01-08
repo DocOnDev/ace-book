@@ -73,9 +73,10 @@ It is not until the employee has proven they can contribute in small ways the
 team and managers agree with that they are then allowed to contribute on a larger scale.
 In other words, it is not until the employee has proven their similarity to
 the rest of the group that the team considers them credible.
-It is not until we know they think the same as us that we put them into a work
-situation that requires diversity of thought.
-We'll cover more on diversity of thought in later chapters.
+It is often not until we know new employees think the same as us that we put them into
+work situations that require diversity of thought.
+We'll cover more on diversity of thought in later chapters, but for now, know that it
+is a key part of a successful knowledge work environment.
 The material aspect of this dialogue, for now, is that in giving lesser consideration
 to those whose perspectives differ form general consensus, the organization is
 not only losing out on an opportunity to truly innovate, but disenfranchising
@@ -91,6 +92,63 @@ lose motivation and drive.
 
 
 ## Hawthorn Effect
+
+***TODO: Look up Friedman (Friedman's Thermostat)***
+
+## Friedman's Thermostat
+[Friedman] was economic advisor to US President Ronald Regan.
+During a debate/discussion over the interpretation of key financial measurements,
+Friedman gave a warning in the form of a parable.
+Begging apology of Friedman, here's my retelling of the parable.
+
+### The case against thermostats
+Imagine for a moment, that you are the ruler of a sovereign province.
+The people are happy under your rule.
+There is plenty of food to go around, everyone has meaningful work that contributes
+to the overall health and wellbeing of the people.
+There is time for leisure and your people want for very little.
+If there were one wish; one thing the people would like, it would be for the winters to be less harsh.
+Summers in the land are wonderful with long comfortable days, lush green lands, and blue skies.
+Spring and Fall are equally beautiful in their varying colors and the cooler, but comfortable temperatures.
+But winter is harshly cold and the days are short.
+A mere three months out of twelve, the winters are nearly insufferable.
+The nights may be long, but sleep is hard to come by.
+Families must take shifts tending to the fire and everyone must huddle together
+in the main room to keep warm; man and pet.
+
+One day, you hear of a land not so far away where the people do not suffer through
+the winter.
+A land where despite the cold, the homes are warm throughout.
+These people have a mysterious device in every household that they call the "thermostat".
+These thermostats, small dials on the wall, somehow allow the people of this land to
+keep their homes at whatever temperature they desire throughout the winter.
+
+Curious, and hopeful that such a magical device might work in your own homes,
+you send a small party to visit the towns in this not so far away land and to
+learn about these thermostats.
+They are instructed to observe these people and their devices, gather data,
+and devise a plan for how your land can best solve the challenge of harsh winters.
+The party takes off just as winter is setting in.
+
+Weeks pass and the winter grows more bitter, but you hold faith that the research party will
+provide answers.
+As winter retires and spring emerges, the research party returns.
+
+"Have you made adequate observations to understand what is happening?", you ask.
+"We have.", they answer.
+"And do you have a clear plan for how we might ease the bitter winters?"
+"We do."
+"Well, waste not another minute! What is your plan?"
+"We must go to war with them. We must gain control of the thermostats."
+"What? How will this help? How will this make a difference?"
+"Well, you see, your highness, we observed for many weeks the activities of
+these people and their strange devices.
+We learned that rather than burning wood, they burn a liquid they call fuel.
+This fuel is drawn from the ground and distributed to each of the homes.
+Now, when they adjust the thermostat, they burn more or less fuel, depending on the adjustment.
+"
+
+
 
 
 - Goodhart's Law
