@@ -160,14 +160,18 @@ the position of the thermostat, and the amount of fuel they consumed."
 "Well, your highness,", said the lead of the party, "after careful observation, we determined a few things."
 
 "First", he said, "the temperate in the home remained comfortable throughout the winter."
+
 "Second, the temperature outside continued to get colder and colder for the first half
 of the winter, and began to slowly warm up during the second half."
+
 "Third, and we believe this to be quite important, the warmer the thermostat,
 the more fuel they burned."
+
 "But most critical, and why we must go to war, is we found that the more fuel they
 burned, the colder it got outside."
-"Whatever this 'fuel' is, extracting it from the earth and burning it makes the
-world cold and these thermostats are they key to stopping this madness."
+
+"Extracting fuel from the earth clearly makes it cold outside. Try as we might,
+we could not convince them to stop this madness."
 
 
 
