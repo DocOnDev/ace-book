@@ -244,12 +244,15 @@ to accept our findings and insisted on continuing their dangerous practices."
 There are numerous lessons one could draw from this tale, but we are focused on
 two.
 
+#### Correlation is not Causation
 The first is best expressed through a common phrase, "Correlation is not Causation."
 Observing a correlation between two items doesn't necessarily inform us which
-caused the other, if they've such a relationship at all. In our story, the chief
-scientist concludes that the draw of fuel from the ground is causing dropping
-temperatures. But we know, of course, that the knowledge of an impending increase
-in demand due to lowering temperatures is what causes the extraction of more fuel.
+caused the other, if they've such a relationship at all.
+
+In our story, the chief scientist concludes that the draw of fuel from the
+ground is causing dropping temperatures. But we know, of course, that the
+knowledge of an impending increase in demand due to lowering temperatures is
+what causes the extraction of more fuel.
 
 In other cases, it may be that there is no cause/effect relationship at all and
 the correlation may be purely coincidental. Take, for example, the per capita
@@ -261,10 +264,37 @@ therefrom are dubious.
 
 ![Us Per Capita Consumption of Beef correlates to Death by Lightening](images/per-capita-consumption-of-beef-us_deaths-caused-by-lightning.png)
 
+#### Not all Correlations are Obvious
+The second lesson, and the purpose of Friedman's original thermostat metaphor was
+to emphasize that there are cases under which, without a comprehensive understanding
+of the system, one might conclude through measurement that correlations do not
+exist when they do in fact exist. This misread of the system can further lead us to
+completely overlook cause and effect phenomenon.
+
+In our story, the constant temperature in the house indicated there was no
+correlation between the outside temperature and that of the home. Nor was there
+a correlation between the fuel consumed and the temperature of the home. This
+conclusion was supported by the measurements, but only in as much as the scientists
+did not understand the entire system. The furnace (in partnership with the thermostat)
+kept the internal temperature regulated such that the actual cause and effect and
+the actual correlation between the internal and external temperature, were
+indiscernible.
+
+In Friedman's case, the Federal Reserve had long operated under Keynesian
+Economic theory and ignored the impact of volume on price stability. Keynesian
+theories were developed at a time when measurements indicated no correlation
+between volume and price. The formulas developed at the time were, naive,
+but worked so long as the system stayed in a particular balance. Throughout
+the 70s, that balance was lost and the correlation and thereby the cause and
+effect relationship was revealed.
+
+
+
+
+
 
 
 - Goodhart's Law
-- Friedman's Thermostat (?)
 - Picking effective metrics
   - Code Quality
   - Lead Time / Cycle Time
