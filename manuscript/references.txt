@@ -24,6 +24,9 @@ Harvard Business Review; May 2011,
 "The Power of Small Wins",
 https://hbr.org/2011/05/the-power-of-small-wins
 
+Spurious Correlations
+http://www.tylervigen.com/spurious-correlations
+
 Fortune 500 Mission Statements
 https://www.missionstatements.com/fortune_500_mission_statements.html
 
