@@ -32,4 +32,3 @@ connection-communication.txt
 excellence.txt
 diversity.txt
 references.txt
-outline.txt
