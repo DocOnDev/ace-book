@@ -30,5 +30,6 @@ connection-customer.txt
 connection-worker.txt
 connection-communication.txt
 excellence.txt
+incremental-delivery.txt
 diversity.txt
 references.txt

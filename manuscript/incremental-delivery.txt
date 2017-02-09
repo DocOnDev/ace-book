@@ -1,0 +1,55 @@
+# On Incremental Delivery
+
+## The advent of Waterfall
+
+### Benington
+In a 1956 Paper from Herbert Benington presented at the “Symposium on advanced programming methods for digital computers” in Washington D.C. Benington articulated a series of steps very similar to what eventually became known as Waterfall. This is the first known publication showing the steps of Requirements, Coding, Testing, and Operations as part of a formal software development process.
+
+### Royce
+
+Fourteen years later, Dr. Winston W. Royce published a paper entitled, “Managing the Development of Large Software Systems” in which he describes the 1970 current state of software development. Figure 2 in Royce’s paper shows a more detailed series of steps than those of Benington’s paper.
+
+### Bell and Thayer
+
+Six years later, Bell and Thayer included Royce’s Diagram 2 in their paper on Software Requirements and made reference to a “waterfall” of activities, specifically recreating Royce’s Figure 2 and identifying it as common practice. This is commonly considered to be the first formal use of the term “waterfall” to describe the process.
+
+### DoD
+
+Finally in 1980, the Department of Defense mandated that all projects follow the series of steps as articulated by Royce and promoted by Bell and Thayer. Waterfall became the known accepted standard.
+
+## The process that should have never been
+
+Waterfall was actually an accident. The process was ultimately codified from a fundamental misunderstanding of the Benington and Royce papers. Neither of the papers was advocating the approach; one was a continuation of a separate paper and in isolation appeared to promote the waterfall approach, the other expressly identified the approach as flawed and dangerous.
+
+### Benington clarifies
+In 1983, Benington re-published his paper with a forward lamenting how the industry had misapplied his thoughts and made things worse. He stated that the entire process he’d identified in the original paper was intended to follow a prototype phase where teams first worked dynamically through proof of concept. Once the concept was proven, then the series of steps could be taken to build the final version. In other words, first the team had to come together and collaboratively experiment to figure out what was truly needed. This effort would result in a poorly factored solution, unlikely able to sustain demand and difficult to maintain. So, the next logical step would be to completely rewrite the system - this could be done in a waterfall manner as everyone already knew what specifically had to be built and how to build it.
+
+### The entirety of Royce’s paper
+
+More interesting than the republication of Benington’s paper with additional clarity was the remainder of Royce’s paper. Royce’s paper was actually an argument against the waterfall approach. Or more accurately, it identified ways the approach needed to be augmented in order to increase the likelihood of success.
+In the paragraph immediately under Figure 2, Royce states,
+> “the implementation described above is risky and invites failure. [...] The testing phase which occurs at the end of the development cycle is the first event for which timing, storage, input/output transfers, etc., are experienced as distinguished from analyzed. These phenomena are not precisely analyzable. They are not the solutions to the standard partial differential equations of mathematical physics for instance. Yet if these phenomena fail to satisfy the various external constraints, then invariably a major redesign is required. A simple octal patch or redo of some isolated code will not fix these kinds of difficulties. The required design changes are likely to be so disruptive that the software requirements upon which the design is based and which provides the rationale for everything are violated. Either the requirements must be modified, or a substantial change in the design is required. In effect the development process has returned to the origin and one can expect up to a 100-percent overrun in schedule and/or costs.”
+
+A> # “[Waterfall] is risky and invites failure.
+
+Royce clearly states that the “waterfall” process is risky and invites failure. The remainder of the paper painstakingly covers each flaw in the approach and discusses viable countermeasures. Royce introduces the ideas of incremental delivery, prototypes, customer involvement, and testing at multiple stages.
+Royce, like Benington, prescribed an experimental stage where teams collaborated together to create a prototype, followed by a more structured process of re-building the now determined solution.
+
+## What we’ve learned since then
+
+### Languages
+
+1956 is a long time ago, especially in terms of technology. In 1956, there were no common computer languages. Grace Hopper had written the first ever compiler in 1951 and coding was based primarily on flipping bits at a very low level. It wasn’t until 1957 that Formula Translation (FORTRAN), the first major computer language was released. The first release of FORTRAN was extremely limited, containing only the IF, DO, and GOTO instructions. But these simple concepts were a huge leap forward for software development.
+Over the course of the next decade, new languages appeared and matured. FORTRAN, COBOL, Pascal, C, and several others were developed in the time between 1956 and 1975. Up until that point, all languages were essentially procedural or functional, with procedural languages winning the majority of support for their simpler syntax and ability to express thought in less mathematically oriented ways.
+In the late 1970s and early 1980s, a new programming method, Object Oriented Programming (OOP) was being developed. The approach was derived from a common pattern being used in multiple languages where data definitions and the activities performed against them were being coupled together into code files. What started as a way of organizing larger applications lead to a new way of thinking about software overall.
+
+### Technology
+
+While we were learning about new challenges in software development and developing new tools in the form of languages to help address the challenges, the underlying hardware and systems were advancing just as rapidly.
+The 1950s gave us large computers based on vacuum tube technology. By the 1960s, supercomputer technology was moving forward, fast followed by attempts to find ways to connect supercomputers together for parallelized computing power. By the 1970s we saw minicomputers and then microcomputers. As the size of the computers shrank linearly, their power grew exponentially.
+By the 1980s, personal computers were on the rise and networking protocols such as TCP/IP made them easy to connect together. The internet was growing through contributions from the government and educational facilities, but we were starting to see more private citizens and companies get connected. With the advent of the World Wide Web, the Internet took off and there was a land rush in the 1990s to get companies “on line”.
+
+### Methodologies
+
+All of these advances; increased computing power, connectivity and the Internet, and more and more specialized programming languages created an increasingly complex environment within which to write software. Manual processes that were easily automated, such as basic accounting procedures, were solved. The next round of challenges were more complex and less clearly defined. Comprehensive prototyping and an intensive design phase prior to planned development had proven beneficial in prior years. But in these new market conditions, these up-front efforts were not only delaying delivery and costing companies valuable time to launch in a gold-rush market, but quite often, companies were finding that their well designed detailed plans were being beaten out by smaller more nimble products that seemed to adjust at the whim of the customer.
+Creators of software had to adapt. Software development needed to be more responsive to change. Through experimentation, the industry discovered that small tight-knit teams with high communication who favored interactions, collaboration, and responsiveness over procedures, contracts, and static plans performed quite well. These teams compressed prototyping and development into a single stage by writing code that was easy to change and extend while releasing in small increments to see how the actual customers responded. They found that not only did regular delivery of lightweight features start generating value (and sometimes revenue) sooner, but it also provided them the rapid feedback necessary to maximize the value.
