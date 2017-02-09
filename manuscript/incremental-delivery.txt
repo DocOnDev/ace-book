@@ -28,6 +28,7 @@ In 1983, Benington re-published his paper with a forward lamenting how the indus
 
 More interesting than the republication of Benington’s paper with additional clarity was the remainder of Royce’s paper. Royce’s paper was actually an argument against the waterfall approach. Or more accurately, it identified ways the approach needed to be augmented in order to increase the likelihood of success.
 In the paragraph immediately under Figure 2, Royce states,
+
 > “the implementation described above is risky and invites failure. [...] The testing phase which occurs at the end of the development cycle is the first event for which timing, storage, input/output transfers, etc., are experienced as distinguished from analyzed. These phenomena are not precisely analyzable. They are not the solutions to the standard partial differential equations of mathematical physics for instance. Yet if these phenomena fail to satisfy the various external constraints, then invariably a major redesign is required. A simple octal patch or redo of some isolated code will not fix these kinds of difficulties. The required design changes are likely to be so disruptive that the software requirements upon which the design is based and which provides the rationale for everything are violated. Either the requirements must be modified, or a substantial change in the design is required. In effect the development process has returned to the origin and one can expect up to a 100-percent overrun in schedule and/or costs.”
 
 A> # “[Waterfall] is risky and invites failure.
