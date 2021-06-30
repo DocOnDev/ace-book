@@ -7,3 +7,27 @@ As pertains to the collective, autonomy is the right to self-organize and
 self-govern.
 In a corporate environment autonomy means leaving the decisions about how work
 is done to those who actually do the work.
+
+
+** From Article
+
+
+For many, this sounds like a recipe for chaos. And complete autonomy does tend toward chaos. But complete autonomy isn’t what we’re advocating for here. Autonomy in an organization is bounded - bounded by guidelines and agreements. In most organizations, for example, it is not acceptable to break federal, state, or local laws. Everyone agrees that staying within those constraints is a condition of employment with the organization.
+
+These constraints may be perceived as limiting, but designed well, they enable the people doing the work to creatively solve their own problems while simultaneously providing necessary safety or structure. Autonomy doesn't mean a free-for-all. Well-designed constraints leave room for and even foster autonomy.
+
+Along with enabling constraints, clear objectives are crucial to providing effective autonomy. Management used to be about determining precisely how the work needed to be done. Today, management is about determining what the target objectives are and providing guidelines to enable the work. Let the workers figure out precisely how they’ll get it done.
+
+Let’s look at a software development team that has the objectives to share knowledge and to ensure high quality code. Command-based management mandates that all teams do a formal code review once per week and details how code reviews are to be conducted - replete with RACI charts and protocols incorrectly referred to as “Best Practices”.
+
+In contrast, enablement-based management with the same objectives sets a guideline that no code should go to production without at least three different people having reviewed it. This maintains the desired checks and balances and allows the team to design their own specific process.
+
+With command, no one has much opportunity to learn or improve. Remember this: the more we tell people how to work, the more static and ultimately brittle the process is.
+
+On the other hand, with enablement, everyone is encouraged to adjust the process as they see fit, so long as the guideline is met. There is ample opportunity for improvement and learning. The process is flexible and can evolve to meet ever-changing demands.
+
+Both approaches, command and enablement, do arguably meet the objectives. But it is only enablement that provides for adaptation and improvement. It is only enablement that provides the autonomy necessary for true ownership and engagement from the team. It is only enablement that creates the space where the entire organization can safely experiment and learn and improve.
+
+To enable autonomy, replace procedures and policies with guidelines, grant decision-making authority to those closest to and most familiar with the information, seek and act on employee insights, and offer truly flexible work situations by giving employees more control over their working hours and location.
+
+Measurements for autonomy include how employees perceive their ability to make decisions about how they do their work, to contribute ideas, to work with limited supervision, and to work effectively with the tools provided. There are also indicators such as the number of approvals required to accomplish regular tasks and the number of hand-offs and wait states a work item must go through.

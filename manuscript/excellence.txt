@@ -9,64 +9,21 @@ progress toward a goal they aspire to.
 It is not only important that people are connected to a mission or purpose, but
 that they can see steady progress in their endeavor to achieve the desired end.
 
-"Knowledge worker" is a term coined in the late 1950s by American management consultant,
-educator, and author, Peter Drucker. Drucker considered knowledge work and
-knowledge-worker productivity to be the next frontier of management.
-While there is no formal definition of the term, knowledge workers are generally
-considered people whose work requires specific knowledge and problem solving
-abilities, such as physicians, scientists, software engineers, and architects.
+"Knowledge worker" is a term coined in the late 1950s by American management consultant, educator, and author, Peter Drucker. Drucker considered knowledge work and knowledge-worker productivity to be the next frontier of management. While there is no formal definition of the term, knowledge workers are generally considered people whose work requires specific knowledge and problem solving abilities, such as physicians, scientists, software engineers, and architects.
 
-For knowledge workers, nothing is more important than making visible progress in meaningful work.
-Studies to evaluate the makings of a "good" work day versus a "bad" work day found
-that people feeling motivated and happy at the end of a given workday were highly
-likely to have made some progress that same day. Conversely, if the person
-drags out of the office disengaged and joyless, a setback is most likely to blame.
+For knowledge workers, nothing is more important than making visible progress in meaningful work. Studies to evaluate the makings of a "good" work day versus a "bad" work day found that people feeling motivated and happy at the end of a given workday were highly likely to have made some progress that same day. Conversely, if the person drags out of the office disengaged and joyless, a setback is most likely to blame.
 
-While positive progress improves engagement and satisfaction, setbacks tend to
-be far more powerful. A small step forward does not boost engagement to the same
-degree that a small setback decreases engagement. Large wins have a punctuated
-impact on engagement, but the boost does not last long. As a result, we know that
-small frequent positive progress is essential to long-term engagement.
+While positive progress improves engagement and satisfaction, setbacks tend to be far more powerful. A small step forward does not boost engagement to the same degree that a small setback decreases engagement. Large wins have a punctuated impact on engagement, but the boost does not last long. As a result, we know that small frequent positive progress is essential to long-term engagement.
 
-But positive progress alone is still not enough to maintain engagement.
-The work has to be meaningful.
-Meaningful not necessarily to the world at large, but meaningful to the individual
-performing the work itself.
-Certainly endeavors such as eradicating homelessness or curing cancer can bring
-meaning to the work, but meaning can be as simple as making a quality product a
-customer cares about and enjoys using.
-Meaning can come from providing a service to a community or controlling costs
-and increasing profits for one's employer.
-Simple or grand, goals that are meaningful to the worker where one can see how
-their efforts contribute to progress toward those goals can invigorate
-inner work life and engagement.
+But positive progress alone is still not enough to maintain engagement. The work has to be meaningful. Meaningful not necessarily to the world at large, but meaningful to the individual performing the work itself. Certainly endeavors such as eradicating homelessness or curing cancer can bring meaning to the work, but meaning can be as simple as making a quality product a customer cares about and enjoys using. Meaning can come from providing a service to a community or controlling costs and increasing profits for one's employer. Simple or grand, goals that are meaningful to the worker where one can see how their efforts contribute to progress toward those goals can invigorate inner work life and engagement.
 
-Most modern work is knowledge work.
-Knowledge work need not be bolstered in any way to help workers find meaning.
-Most knowledge work jobs are potentially meaningful for the people doing them.
-The challenge is more in how management removes a sense of purpose from the work
-and fails to draw clear connections between the work and the overall organizational
-goals.
-Managers need not make knowledge work more meaningful, but they do need to stop actively
-stripping meaning from the work.
+Most modern work is knowledge work. Knowledge work need not be bolstered in any way to help workers find meaning. Most knowledge work jobs are potentially meaningful for the people doing them. The challenge is more in how management removes a sense of purpose from the work and fails to draw clear connections between the work and the overall organizational goals. Managers need not make knowledge work more meaningful, but they do need to stop actively stripping meaning from the work.
 
 According to a study of hundreds of knowledge workers, there are four key ways
-in which managers stripped work of its meaning -
-Dismissing or completely ignoring the importance of people's work or ideas,
-destroying people's sense of ownership through frequent reassignment,
-giving people the impression that nobody will see, use, or benefit from their efforts,
-and keeping people generally uninformed about project risks until they are realized.
+in which managers stripped work of its meaning - Dismissing or completely ignoring the importance of people's work or ideas, destroying people's sense of ownership through frequent reassignment, giving people the impression that nobody will see, use, or benefit from their efforts, and keeping people generally uninformed about project risks until they are realized.
 
 Knowledge work is primarily about solving problems, often complex problems that
-require specific knowledge and unique approaches.
-For many knowledge workers, they've spent years studying and practicing before securing even an entry level job.
-They're well educated, well informed, and experienced.
-Many have worked in internships and other real world opportunities where they've
-developed tacit knowledge to compliment the explicit knowledge acquired through
-formal schooling.
-The number one thing they have to contribute to work and to the cause is ideas.
-Dismiss or ignore the key thing they have to contribute, and their motivation
-is readily lost.
+require specific knowledge and unique approaches. For many knowledge workers, they've spent years studying and practicing before securing even an entry level job. They're well educated, well informed, and experienced. Many have worked in internships and other real world opportunities where they've developed tacit knowledge to compliment the explicit knowledge acquired through formal schooling. The number one thing they have to contribute to work and to the cause is ideas. Dismiss or ignore the key thing they have to contribute, and their motivation is readily lost.
 
 Unfortunately, in many organizations, new employee ideas are given little consideration.
 It is not until the employee has proven they can contribute in small ways the
@@ -370,3 +327,14 @@ When I talk about this, I tend to add, "And the target therefore no longer means
   - AB Testing
   - Multi-Variate Testing
 - Healthy use of the data
+
+
+** From Article
+
+Excellence is about both personal mastery and the quality of the product produced. To achieve excellence in both, teams and individuals must be adequately challenged and be able to see true progress toward a goal they aspire to.
+
+In command-based management, excellence means following procedure without error. In enablement-based management, excellence means producing outcomes. Excellence isn’t about getting it right the first time, but about learning and constantly improving.
+
+To enable excellence, make experimentation and learning a priority, make product quality as important as feature delivery, encourage courageous goals, and reward progress as much as achievement.
+
+Measurements for excellence include employees' perceptions of available growth opportunities, the company’s commitment to serving customers, their teammates’ commitment to quality work, the opportunity to utilize their personal strengths every day, and how much they’ve grown in the past year. There are also indicators such as customer satisfaction, code smells, escaped defects, objective completion rate, and business outcome achievement.
